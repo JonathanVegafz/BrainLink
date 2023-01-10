@@ -1,0 +1,85 @@
+{
+  "dic": {
+    "UIConfiguracionesJuego": [
+      "SETTINGS",
+      "Sound",
+      "Music",
+      "Credits",
+      "Language"
+    ],
+    "UIJugar": [
+      "GAME MODE",
+      "Online",
+      "Offline"
+    ],
+    "UIElegirMateria": [
+      "SELECT A SUBJECT",
+      "Subject",
+      "Cold War",
+      "Genetics",
+      "Coming Soon",
+      "Coming Soon",
+      "Coming Soon",
+      "Coming Soon",
+      "Coming Soon",
+      "Coming Soon",
+      "Coming Soon",
+      "Coming Soon"
+    ],
+    "UIIngresoNombres": [
+      "PLAYERS",
+      "Player 01",
+      "Player Name",
+      "PLAYER 02",
+      "Player Name",
+      "PLAYER 03",
+      "Player Name",
+      "PLAYER 04",
+      "Player Name"
+    ],
+    "UIConfiguracionesPartida": [
+      "IN GAME SETTINGS",
+      "Playtime",
+      "Concept time",
+      "Linker time",
+      "Score (Master)",
+      "Per player",
+      "Per interface",
+      "Maximum Questions",
+      "Maximum Help",
+      "Event Cards",
+      "Use Event Cards",
+      "Others",
+      "Starting Cards",
+      "Allow Random Players"
+    ],
+    "Descripciones": [
+      "A group of cards that boost the exposition score associated with the players active cards.",
+      "Are a group of cards that punish the player and giving them a difficult time by messing with their score.",
+      "Are a group of cards that produce changes in the past, present and future of the player.",
+      "These Cards give hints or make the Master interfere in favour of the active player.",
+      "Are cards that ,as their namesake, ask questions to the player in order to bring additional score to linkers and concepts explained."
+    ],
+    "Temas": [
+      "Concept",
+      "Linker",
+      "Question"
+    ],
+    "UIElegirConceptos": [
+      "Chosen Concept"
+    ],
+
+    "UIExposicion": [
+      "Explain Topic"
+    ],
+    "UIGranMaster": [
+      "The Master"
+    ],
+    "UIPuntajes": [
+      "Score"
+    ],
+    "UIPausa": [
+      "Leave Game?"
+    ]
+  }
+}

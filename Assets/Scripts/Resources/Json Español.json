@@ -1,0 +1,92 @@
+{
+  "dic": {
+    "UIConfiguracionesJuego": [
+      "CONFIGURACIONES",
+      "Sonido",
+      "Música",
+      "Créditos",
+      "Idioma"
+    ],
+    "UIJugar": [
+      "MODO DE JUEGO",
+      "Online",
+      "Offline"
+    ],
+    "Descripciones": [
+      "Agrupación de cartas que aumenta el puntaje de la exposición, asociado a las cartas activadas del jugador. ",
+      "Conjunto de cartas que penalizan al jugador o generan dificultades adicionales que debe sobrellevar en el turno para no ver afectado su puntaje.",
+      "Corresponde a todas aquellas cartas que brindan una alteración en el presente, pasado o futuro del jugador en turno.",
+      "Brindan pistas o simplemente hacen que el Gran Master intervenga positivamente en la exposición del jugador en turno.",
+      "Son cartas que forman un listado aleatorio de interrogantes que, al ser reveladas al jugador, su respuesta correcta trae consigo la asignación de un puntaje adicional al de exposición de cartas y puentes."
+    ],
+    "UIElegirMateria": [
+      "SELECCIÓN DE MATERIA",
+      "Materia",
+      "Guerra Fria",
+      "Genetica",
+      "Genero no Literario",
+      "Pueblos Precolombinos",
+      "Aventura",
+      "Genero Narrativo",
+      "Próximamente",
+      "Próximamente",
+      "Próximamente",
+      "Próximamente"
+    ],
+    "UIIngresoNombres": [
+      "JUGADORES",
+      "JUGADOR 01",
+      "Nombre Jugador",
+      "JUGADOR 02",
+      "Nombre Jugador",
+      "JUGADOR 03",
+      "Nombre Jugador",
+      "JUGADOR 04",
+      "Nombre Jugador"
+    ],
+    "UIConfiguracionesPartida": [
+      "CONFIGURACIONES DE PARTIDA",
+      "Tiempo de Juego",
+      "Inicial de Conceptos",
+      "Inicial de Puentes",
+      "Dar Puntaje (Master)",
+      "Por Jugador",
+      "Por Interfaz",
+      "Máximo de Preguntas",
+      "Máximo de Ayuda",
+      "Cartas de Evento",
+      "Usar Cartas de Evento",
+      "Otros",
+      "Cartas Iniciales",
+      "Jugadores Random"
+    ],
+    "Temas": [
+      "Concepto",
+      "Puente",
+      "Pregunta"
+    ],
+    "UIElegirConceptos": [
+      "Elegir Concepto"
+    ],
+    "UIExposicion": [
+      "Exponer Tema"
+    ],
+    "UIGranMaster": [
+      "El Master"
+    ],
+    "UIPuntajes": [
+      "Puntajes"
+    ],
+    "UIPausa": [
+      "¿Abandonar Partida?"
+    ],
+    "UILoginPadre": [
+      "Iniciar Sesión",
+      "Nombre de Usuario",
+      "Escribir Texto...",
+      "Contraseña",
+      "Escribir Texto...",
+      "Recuperar Contraseña"
+    ]
+  }
+}

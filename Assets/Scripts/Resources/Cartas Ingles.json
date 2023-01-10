@@ -1,0 +1,844 @@
+{
+  "Conceptos": {
+    "Cold War": [
+      {
+        "conceptos": [
+          "Sputnik",
+          "Propaganda",
+          "Berlin Wall"
+        ],
+        "materia": "Cold War",
+        "Atributos_": {
+          "idImagen": "1_C_GF",
+          "idImagenBack": "C",
+          "tipoCarta": 0
+        }
+      },
+      {
+        "conceptos": [
+          "U.S.A",
+          "Communism",
+          "Korean Armistice Agreement"
+        ],
+        "materia": "Cold War",
+        "Atributos_": {
+          "idImagen": "2_C_GF",
+          "idImagenBack": "C",
+          "tipoCarta": 0
+        }
+      },
+      {
+        "conceptos": [
+          "Pakistán",
+          "Perestroika",
+          "Iron Curtain"
+        ],
+        "materia": "Cold War",
+        "Atributos_": {
+          "idImagen": "3_C_GF",
+          "idImagenBack": "C",
+          "tipoCarta": 0
+        }
+      },
+      {
+        "conceptos": [
+          "Glasnost",
+          "Nonviolent resistance",
+          "Political Bipolarity"
+        ],
+        "materia": "Cold War",
+        "Atributos_": {
+          "idImagen": "4_C_GF",
+          "idImagenBack": "C",
+          "tipoCarta": 0
+        }
+      },
+      {
+        "conceptos": [
+          "N.A.T.O",
+          "C.I.S",
+          "Mahatma Gandhi"
+        ],
+        "materia": "Cold War",
+        "Atributos_": {
+          "idImagen": "5_C_GF",
+          "idImagenBack": "C",
+          "tipoCarta": 0
+        }
+      },
+      {
+        "conceptos": [
+          "Capitalism",
+          "Apartheid",
+          "Ho Chi Minh"
+        ],
+        "materia": "Cold War",
+        "Atributos_": {
+          "idImagen": "6_C_GF",
+          "idImagenBack": "C",
+          "tipoCarta": 0
+        }
+      },
+      {
+        "conceptos": [
+          "State of Israel",
+          "Apollo XIII",
+          "Nelson Mandela"
+        ],
+        "materia": "Cold War",
+        "Atributos_": {
+          "idImagen": "7_C_GF",
+          "idImagenBack": "C",
+          "tipoCarta": 0
+        }
+      },
+      {
+        "conceptos": [
+          "N.A.S.A.",
+          "Warsaw Pact",
+          "South Korea"
+        ],
+        "materia": "Cold War",
+        "Atributos_": {
+          "idImagen": "8_C_GF",
+          "idImagenBack": "C",
+          "tipoCarta": 0
+        }
+      },
+      {
+        "conceptos": [
+          "Raw Materials",
+          "Land Reform",
+          "Yom Kippur"
+        ],
+        "materia": "Cold War",
+        "Atributos_": {
+          "idImagen": "9_C_GF",
+          "idImagenBack": "C",
+          "tipoCarta": 0
+        }
+      },
+      {
+        "conceptos": [
+          "O.P.E.C",
+          "Neoliberalism",
+          "Economical Protectionism"
+        ],
+        "materia": "Cold War",
+        "Atributos_": {
+          "idImagen": "10_C_GF",
+          "idImagenBack": "C",
+          "tipoCarta": 0
+        }
+      },
+      {
+        "conceptos": [
+          "Great Britain",
+          "Hippie Movement",
+          "People's Republic of China"
+        ],
+        "materia": "Cold War",
+        "Atributos_": {
+          "idImagen": "11_C_GF",
+          "idImagenBack": "C",
+          "tipoCarta": 0
+        }
+      },
+      {
+        "conceptos": [
+          "France",
+          "Prague Spring",
+          "Great Leap Forward"
+        ],
+        "materia": "Cold War",
+        "Atributos_": {
+          "idImagen": "12_C_GF",
+          "idImagenBack": "C",
+          "tipoCarta": 0
+        }
+      },
+      {
+        "conceptos": [
+          "Eastern Europe",
+          "Cultural Revolution",
+          "Marshall Plan"
+        ],
+        "materia": "Cold War",
+        "Atributos_": {
+          "idImagen": "13_C_GF",
+          "idImagenBack": "C",
+          "tipoCarta": 0
+        }
+      },
+      {
+        "conceptos": [
+          "Soviet Union",
+          "Western Europe",
+          "Geneva Peace Conference"
+        ],
+        "materia": "Cold War",
+        "Atributos_": {
+          "idImagen": "14_C_GF",
+          "idImagenBack": "C",
+          "tipoCarta": 0
+        }
+      },
+      {
+        "conceptos": [
+          "Ideological Conflict",
+          "Cuban Missile Crisis",
+          "North Korea"
+        ],
+        "materia": "Cold War",
+        "Atributos_": {
+          "idImagen": "15_C_GF",
+          "idImagenBack": "C",
+          "tipoCarta": 0
+        }
+      },
+      {
+        "conceptos": [
+          "Viet Cong",
+          "Fidel Castro",
+          "Federal Republic of Germany"
+        ],
+        "materia": "Cold War",
+        "Atributos_": {
+          "idImagen": "16_C_GF",
+          "idImagenBack": "C",
+          "tipoCarta": 0
+        }
+      },
+      {
+        "conceptos": [
+          "Colony",
+          "Palestine Liberation Organization ",
+          "Berlin "
+        ],
+        "materia": "Cold War",
+        "Atributos_": {
+          "idImagen": "17_C_GF",
+          "idImagenBack": "C",
+          "tipoCarta": 0
+        }
+      },
+      {
+        "conceptos": [
+          "Agricultural Crisis",
+          "German Democratic Republic",
+          "Mijaíl Gorvachov "
+        ],
+        "materia": "Cold War",
+        "Atributos_": {
+          "idImagen": "18_C_GF",
+          "idImagenBack": "C",
+          "tipoCarta": 0
+        }
+      },
+      {
+        "conceptos": [
+          "J.F Kennedy ",
+          "Saigon",
+          "Comecom "
+        ],
+        "materia": "Cold War",
+        "Atributos_": {
+          "idImagen": "19_C_GF",
+          "idImagenBack": "C",
+          "tipoCarta": 0
+        }
+      },
+      {
+        "conceptos": [
+          "Arms Race",
+          "Guantánamo ",
+          "Cominform"
+        ],
+        "materia": "Cold War",
+        "Atributos_": {
+          "idImagen": "20_C_GF",
+          "idImagenBack": "C",
+          "tipoCarta": 0
+        }
+      }
+    ],
+    "Genetics": [
+      {
+        "conceptos": [
+          "Nucleus",
+          "Genotype",
+          "Q arm"
+        ],
+        "materia": "Genetics",
+        "Atributos_": {
+          "idImagen": "1_C_ADN",
+          "idImagenBack": "C",
+          "tipoCarta": 0
+        }
+      },
+      {
+        "conceptos": [
+          "Purine nucleobases",
+          "Genetics",
+          "Telocentric chromosome"
+        ],
+        "materia": "Genetics",
+        "Atributos_": {
+          "idImagen": "2_C_ADN",
+          "idImagenBack": "C",
+          "tipoCarta": 0
+        }
+      },
+      {
+        "conceptos": [
+          "Nucleosome",
+          "Telomere",
+          "Allele"
+        ],
+        "materia": "Genetics",
+        "Atributos_": {
+          "idImagen": "3_C_ADN",
+          "idImagenBack": "C",
+          "tipoCarta": 0
+        }
+      },
+      {
+        "conceptos": [
+          "Hydrogen bond",
+          "Metacentric chromosome",
+          "Sister chromatids"
+        ],
+        "materia": "Genetics",
+        "Atributos_": {
+          "idImagen": "4_C_ADN",
+          "idImagenBack": "C",
+          "tipoCarta": 0
+        }
+      },
+      {
+        "conceptos": [
+          "Nuclear pore",
+          "Phosphate group",
+          "Photo 51"
+        ],
+        "materia": "Genetics",
+        "Atributos_": {
+          "idImagen": "5_C_ADN",
+          "idImagenBack": "C",
+          "tipoCarta": 0
+        }
+      },
+      {
+        "conceptos": [
+          "Histone",
+          "Diploid",
+          "Watson & Crick"
+        ],
+        "materia": "Genetics",
+        "Atributos_": {
+          "idImagen": "6_C_ADN",
+          "idImagenBack": "C",
+          "tipoCarta": 0
+        }
+      },
+      {
+        "conceptos": [
+          "P arm",
+          "Chromosome Set",
+          "Gene"
+        ],
+        "materia": "Genetics",
+        "Atributos_": {
+          "idImagen": "7_C_ADN",
+          "idImagenBack": "C",
+          "tipoCarta": 0
+        }
+      },
+      {
+        "conceptos": [
+          "Karyotype",
+          "DNA condensation",
+          "Prokaryote cell"
+        ],
+        "materia": "Genetics",
+        "Atributos_": {
+          "idImagen": "8_C_ADN",
+          "idImagenBack": "C",
+          "tipoCarta": 0
+        }
+      },
+      {
+        "conceptos": [
+          "Nucleolus",
+          "Rosalind Franklin",
+          "Pyrimidine nucleobases"
+        ],
+        "materia": "Genetics",
+        "Atributos_": {
+          "idImagen": "9_C_ADN",
+          "idImagenBack": "C",
+          "tipoCarta": 0
+        }
+      },
+      {
+        "conceptos": [
+          "Beaded String",
+          "Central dogma of biology",
+          "Deoxyribose"
+        ],
+        "materia": "Genetics",
+        "Atributos_": {
+          "idImagen": "10_C_ADN",
+          "idImagenBack": "C",
+          "tipoCarta": 0
+        }
+      },
+      {
+        "conceptos": [
+          "Double helix",
+          "Centromere",
+          "Nucleoplasm"
+        ],
+        "materia": "Genetics",
+        "Atributos_": {
+          "idImagen": "11_C_ADN",
+          "idImagenBack": "C",
+          "tipoCarta": 0
+        }
+      },
+      {
+        "conceptos": [
+          "Haploid",
+          "Phenotype",
+          "Nuclear envelope"
+        ],
+        "materia": "Genetics",
+        "Atributos_": {
+          "idImagen": "12_C_ADN",
+          "idImagenBack": "C",
+          "tipoCarta": 0
+        }
+      },
+      {
+        "conceptos": [
+          "Guanine",
+          "Cell",
+          "Chromosome"
+        ],
+        "materia": "Genetics",
+        "Atributos_": {
+          "idImagen": "13_C_ADN",
+          "idImagenBack": "C",
+          "tipoCarta": 0
+        }
+      },
+      {
+        "conceptos": [
+          "Nucleotide",
+          "Sex chromosome",
+          "Heredity"
+        ],
+        "materia": "Genetics",
+        "Atributos_": {
+          "idImagen": "14_C_ADN",
+          "idImagenBack": "C",
+          "tipoCarta": 0
+        }
+      },
+      {
+        "conceptos": [
+          "Anti-parallel strands",
+          "Chromatin",
+          "Genotype"
+        ],
+        "materia": "Genetics",
+        "Atributos_": {
+          "idImagen": "15_C_ADN",
+          "idImagenBack": "C",
+          "tipoCarta": 0
+        }
+      },
+      {
+        "conceptos": [
+          "Acrocentric chromosome",
+          "Nitrogenous base",
+          "Molecular model"
+        ],
+        "materia": "Genetics",
+        "Atributos_": {
+          "idImagen": "16_C_ADN",
+          "idImagenBack": "C",
+          "tipoCarta": 0
+        }
+      },
+      {
+        "conceptos": [
+          "Double helix",
+          "Nucleoid",
+          "Cytosine"
+        ],
+        "materia": "Genetics",
+        "Atributos_": {
+          "idImagen": "17_C_ADN",
+          "idImagenBack": "C",
+          "tipoCarta": 0
+        }
+      },
+      {
+        "conceptos": [
+          "Chromatid",
+          "DNA",
+          "Autosome"
+        ],
+        "materia": "Genetics",
+        "Atributos_": {
+          "idImagen": "18_C_ADN",
+          "idImagenBack": "C",
+          "tipoCarta": 0
+        }
+      },
+      {
+        "conceptos": [
+          "Genetic Material",
+          "Thymine",
+          "Homologous chromosome"
+        ],
+        "materia": "Genetics",
+        "Atributos_": {
+          "idImagen": "19_C_ADN",
+          "idImagenBack": "C",
+          "tipoCarta": 0
+        }
+      },
+      {
+        "conceptos": [
+          "Adenine",
+          "RNA",
+          "Uracil"
+        ],
+        "materia": "Genetics",
+        "Atributos_": {
+          "idImagen": "20_C_ADN",
+          "idImagenBack": "C",
+          "tipoCarta": 0
+        }
+      }
+    ]
+  },
+  "Eventos": {
+    "Tiempo": [
+      {
+        "descripcion": "You gain 30 seconds in all your linkers expositions.",
+        "tipoEvento": 0,
+        "Atributos_": {
+          "idImagen": "E_TI_F",
+          "idImagenBack": "E_TI_B",
+          "tipoCarta": 1
+        }
+      },
+      {
+        "descripcion": "You get +10 seconds in all your expositions.",
+        "tipoEvento": 0,
+        "Atributos_": {
+          "idImagen": "E_TI_F",
+          "idImagenBack": "E_TI_B",
+          "tipoCarta": 1
+        }
+      },
+      {
+        "descripcion": "All players lose 10 seconds per each player in game.",
+        "tipoEvento": 0,
+        "Atributos_": {
+          "idImagen": "E_TI_F",
+          "idImagenBack": "E_TI_B",
+          "tipoCarta": 1
+        }
+      },
+      {
+        "descripcion": "All your timers (concept and linkers) are reduced in 30 seconds",
+        "tipoEvento": 0,
+        "Atributos_": {
+          "idImagen": "E_TI_F",
+          "idImagenBack": "E_TI_B",
+          "tipoCarta": 1
+        }
+      },
+      {
+        "descripcion": "You gain 30 seconds in all your concept expositions.",
+        "tipoEvento": 0,
+        "Atributos_": {
+          "idImagen": "E_TI_F",
+          "idImagenBack": "E_TI_B",
+          "tipoCarta": 1
+        }
+      }
+    ],
+    "Trampa": [
+      {
+        "descripcion": "Pendulum: depending on the result the concept or linker with the highest score is halved.",
+        "tipoEvento": 2,
+        "Atributos_": {
+          "idImagen": "E_TI_F",
+          "idImagenBack": "E_TI_B",
+          "tipoCarta": 1
+        }
+      },
+      {
+        "descripcion": "Explain your cards and choose the concept with the highest score. This score is halved.",
+        "tipoEvento": 2,
+        "Atributos_": {
+          "idImagen": "E_TA_F",
+          "idImagenBack": "E_TA_B",
+          "tipoCarta": 1
+        }
+      },
+      {
+        "descripcion": "Explain your cards and choose the concept with the highest score. This score is 0.",
+        "tipoEvento": 2,
+        "Atributos_": {
+          "idImagen": "E_TA_F",
+          "idImagenBack": "E_TA_B",
+          "tipoCarta": 1
+        }
+      },
+      {
+        "descripcion": "Explain your cards and choose the linker with the highest score. This score is halved",
+        "tipoEvento": 2,
+        "Atributos_": {
+          "idImagen": "E_TA_F",
+          "idImagenBack": "E_TA_B",
+          "tipoCarta": 1
+        }
+      },
+      {
+        "descripcion": "Explain your cards and choose the linker with the highest score. This score is 0.",
+        "tipoEvento": 2,
+        "Atributos_": {
+          "idImagen": "E_TA_F",
+          "idImagenBack": "E_TA_B",
+          "tipoCarta": 1
+        }
+      }
+    ],
+    "Bonus": [
+      {
+        "descripcion": "Pendulum: depending on the result, concept or linker, you obtain its maximum score.",
+        "tipoEvento": 1,
+        "Atributos_": {
+          "idImagen": "E_TA_F",
+          "idImagenBack": "E_TA_B",
+          "tipoCarta": 1
+        }
+      },
+      {
+        "descripcion": "Explain your cards and choose a concept. You obtain double score on it.",
+        "tipoEvento": 1,
+        "Atributos_": {
+          "idImagen": "E_B_F",
+          "idImagenBack": "E_B_B",
+          "tipoCarta": 1
+        }
+      },
+      {
+        "descripcion": "Explain your cards and choose a concept. You obtain its total score.",
+        "tipoEvento": 1,
+        "Atributos_": {
+          "idImagen": "E_B_F",
+          "idImagenBack": "E_B_B",
+          "tipoCarta": 1
+        }
+      },
+      {
+        "descripcion": "Explain your cards and choose a linker. You obtain its total score.",
+        "tipoEvento": 1,
+        "Atributos_": {
+          "idImagen": "E_B_F",
+          "idImagenBack": "E_B_B",
+          "tipoCarta": 1
+        }
+      },
+      {
+        "descripcion": "Explain your cards and choose a linker. You obtain double score on it.",
+        "tipoEvento": 1,
+        "Atributos_": {
+          "idImagen": "E_B_F",
+          "idImagenBack": "E_B_B",
+          "tipoCarta": 1
+        }
+      }
+    ],
+    "Ayuda": [
+      {
+        "descripcion": "The Game Master explains a concept to a player at their choice.",
+        "tipoEvento": 4,
+        "Atributos_": {
+          "idImagen": "E_B_F",
+          "idImagenBack": "E_B_B",
+          "tipoCarta": 1
+        }
+      },
+      {
+        "descripcion": "The Game Master explains a linker to a player at their choice.",
+        "tipoEvento": 4,
+        "Atributos_": {
+          "idImagen": "E_A_F",
+          "idImagenBack": "E_A_B",
+          "tipoCarta": 1
+        }
+      },
+      {
+        "descripcion": "Pendulum: depending on the result, the game master explains a linker or concept at random",
+        "tipoEvento": 4,
+        "Atributos_": {
+          "idImagen": "E_A_F",
+          "idImagenBack": "E_A_B",
+          "tipoCarta": 1
+        }
+      },
+      {
+        "descripcion": "Pendulum: depending on the result, the game master explains a concept at random or at the player's choice.",
+        "tipoEvento": 4,
+        "Atributos_": {
+          "idImagen": "E_A_F",
+          "idImagenBack": "E_A_B",
+          "tipoCarta": 1
+        }
+      },
+      {
+        "descripcion": "Pendulum: depending on the result, the game master explains a linker at random or at the player's choice.",
+        "tipoEvento": 4,
+        "Atributos_": {
+          "idImagen": "E_A_F",
+          "idImagenBack": "E_A_B",
+          "tipoCarta": 1
+        }
+      }
+    ]
+  },
+  "Preguntas": {
+    "Cold War": [
+      {
+        "materia": "Cold War",
+        "descripcion": "Which were the 3 causes why the U.S.S.R fell during the cold war? Explain.",
+        "tipoEvento": 3,
+        "Atributos_": {
+          "idImagen": "E_A_F",
+          "idImagenBack": "E_A_B",
+          "tipoCarta": 1
+        }
+      },
+      {
+        "materia": "Cold War",
+        "descripcion": "Determine 2 reasons of why the U.S.A lost the Vietnam war and explain",
+        "tipoEvento": 3,
+        "Atributos_": {
+          "idImagen": "E_P_F",
+          "idImagenBack": "E_P_B",
+          "tipoCarta": 1
+        }
+      },
+      {
+        "materia": "Cold War",
+        "descripcion": "What was known as arms race during the Cold War?",
+        "tipoEvento": 3,
+        "Atributos_": {
+          "idImagen": "E_P_F",
+          "idImagenBack": "E_P_B",
+          "tipoCarta": 1
+        }
+      },
+      {
+        "materia": "Cold War",
+        "descripcion": "Which were the aid plans that de U.S.A and the U.S.S.R had to reactivate the European economy? Explain 3 of them.",
+        "tipoEvento": 3,
+        "Atributos_": {
+          "idImagen": "E_P_F",
+          "idImagenBack": "E_P_B",
+          "tipoCarta": 1
+        }
+      },
+      {
+        "materia": "Cold War",
+        "descripcion": "Which historical figures were the most prominent by their social, economical and political contribution during the Cold War? Explain 3 of them that were not present in your cards.",
+        "tipoEvento": 3,
+        "Atributos_": {
+          "idImagen": "E_P_F",
+          "idImagenBack": "E_P_B",
+          "tipoCarta": 1
+        }
+      },
+      {
+        "materia": "Cold War",
+        "descripcion": "Which were the main traits of communism and capitalism? Explain 2 traits each.\t",
+        "tipoEvento": 3,
+        "Atributos_": {
+          "idImagen": "E_P_F",
+          "idImagenBack": "E_P_B",
+          "tipoCarta": 1
+        }
+      }
+    ],
+    "Genetics": [
+      {
+        "materia": "Genetics",
+        "descripcion": "What structural features does a nucleotide have?",
+        "tipoEvento": 3,
+        "Atributos_": {
+          "idImagen": "E_P_F",
+          "idImagenBack": "E_P_B",
+          "tipoCarta": 1
+        }
+      },
+      {
+        "materia": "Genetics",
+        "descripcion": "How is a karyotype organized?",
+        "tipoEvento": 3,
+        "Atributos_": {
+          "idImagen": "E_P_F",
+          "idImagenBack": "E_P_B",
+          "tipoCarta": 1
+        }
+      },
+      {
+        "materia": "Genetics",
+        "descripcion": "What structural features does DNA have?",
+        "tipoEvento": 3,
+        "Atributos_": {
+          "idImagen": "E_P_F",
+          "idImagenBack": "E_P_B",
+          "tipoCarta": 1
+        }
+      },
+      {
+        "materia": "Genetics",
+        "descripcion": "What is the number of chromosomes in a haploid cell of the human species?",
+        "tipoEvento": 3,
+        "Atributos_": {
+          "idImagen": "E_P_F",
+          "idImagenBack": "E_P_B",
+          "tipoCarta": 1
+        }
+      },
+      {
+        "materia": "Genetics",
+        "descripcion": "What similarities and differences can be found when comparing a female karyotype with a male one, being these normal, without any chromosomal diseases? Expose two for each case.",
+        "tipoEvento": 3,
+        "Atributos_": {
+          "idImagen": "E_P_F",
+          "idImagenBack": "E_P_B",
+          "tipoCarta": 1
+        }
+      },
+      {
+        "materia": "Genetics",
+        "descripcion": "What is the function of the phosphate group in a DNA molecule?",
+        "tipoEvento": 3,
+        "Atributos_": {
+          "idImagen": "E_P_F",
+          "idImagenBack": "E_P_B",
+          "tipoCarta": 1
+        }
+      }
+    ]
+  }
+}

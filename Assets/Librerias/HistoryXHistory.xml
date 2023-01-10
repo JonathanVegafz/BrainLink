@@ -1,0 +1,173 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>HistoryXHistory</name>
+    </assembly>
+    <members>
+        <member name="T:HistoryHerramientas.Cartas.Carta">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:HistoryHerramientas.Cartas.Carta.Atributos_">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:HistoryHerramientas.Cartas.Carta.#ctor(HistoryHerramientas.Cartas.Atributos)">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="T:HistoryHerramientas.Cartas.Atributos">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:HistoryHerramientas.Cartas.Atributos.#ctor(System.String,System.String,HistoryHerramientas.Enum.Tipo_Carta)">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="T:HistoryHerramientas.Cartas.Concepto">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:HistoryHerramientas.Cartas.Concepto.conceptos">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:HistoryHerramientas.Cartas.Concepto.#ctor(System.String,System.String,System.String,System.String,HistoryHerramientas.Cartas.Atributos)">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="T:HistoryHerramientas.Cartas.Evento">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:HistoryHerramientas.Cartas.Evento.descripcion">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:HistoryHerramientas.Cartas.Evento.tipoEvento">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:HistoryHerramientas.Cartas.Evento.#ctor(System.String,HistoryHerramientas.Enum.Tipo_Evento,HistoryHerramientas.Cartas.Atributos)">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:HistoryHerramientas.Cartas.Evento.ActivarEvento">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="T:HistoryHerramientas.Cartas_Eventos.Tiempo">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:HistoryHerramientas.Cartas_Eventos.Tiempo.#ctor(System.String,HistoryHerramientas.Enum.Tipo_Evento,HistoryHerramientas.Cartas.Atributos)">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="T:HistoryHerramientas.Cartas_Eventos.Trampa">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:HistoryHerramientas.Cartas_Eventos.Trampa.#ctor(System.String,HistoryHerramientas.Enum.Tipo_Evento,HistoryHerramientas.Cartas.Atributos)">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="T:HistoryHerramientas.Cartas_Eventos.Bonus">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:HistoryHerramientas.Cartas_Eventos.Bonus.#ctor(System.String,HistoryHerramientas.Enum.Tipo_Evento,HistoryHerramientas.Cartas.Atributos)">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="T:HistoryHerramientas.Cartas_Eventos.Ayuda">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:HistoryHerramientas.Cartas_Eventos.Ayuda.#ctor(System.String,HistoryHerramientas.Enum.Tipo_Evento,HistoryHerramientas.Cartas.Atributos)">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="T:HistoryHerramientas.Cartas_Eventos.Pregunta">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:HistoryHerramientas.Cartas_Eventos.Pregunta.#ctor(System.String,System.String,HistoryHerramientas.Enum.Tipo_Evento,HistoryHerramientas.Cartas.Atributos)">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="T:HistoryHerramientas.Enum.Tipo_Carta">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:HistoryHerramientas.Enum.Tipo_Carta.Concepto">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:HistoryHerramientas.Enum.Tipo_Carta.Evento">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="T:HistoryHerramientas.Enum.Tipo_Evento">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:HistoryHerramientas.Enum.Tipo_Evento.Tiempo">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:HistoryHerramientas.Enum.Tipo_Evento.Bonus">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:HistoryHerramientas.Enum.Tipo_Evento.Trampa">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:HistoryHerramientas.Enum.Tipo_Evento.Pregunta">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:HistoryHerramientas.Enum.Tipo_Evento.Ayuda">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="T:HistoryHerramientas.BDCartas">
+            <summary>
+            
+            </summary>
+        </member>
+    </members>
+</doc>

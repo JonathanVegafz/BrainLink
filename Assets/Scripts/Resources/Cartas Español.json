@@ -1,0 +1,1944 @@
+{
+  "Conceptos": {
+    "Guerra Fria": [
+      {
+        "conceptos": [
+          "Sputnik",
+          "Propaganda",
+          "Muro de Berlín"
+        ],
+        "materia": "Guerra Fria",
+        "Atributos_": {
+          "idImagen": "1_C_GF",
+          "idImagenBack": "C",
+          "tipoCarta": 0
+        }
+      },
+      {
+        "conceptos": [
+          "EE.UU",
+          "Comunismo",
+          "Tratado de Paz de 1953"
+        ],
+        "materia": "Guerra Fria",
+        "Atributos_": {
+          "idImagen": "2_C_GF",
+          "idImagenBack": "C",
+          "tipoCarta": 0
+        }
+      },
+      {
+        "conceptos": [
+          "Pakistán",
+          "Perestroika",
+          "Cortina de Hierro"
+        ],
+        "materia": "Guerra Fria",
+        "Atributos_": {
+          "idImagen": "3_C_GF",
+          "idImagenBack": "C",
+          "tipoCarta": 0
+        }
+      },
+      {
+        "conceptos": [
+          "Glasnost",
+          "Resistencia Pasiva",
+          "Mundo Bipolar"
+        ],
+        "materia": "Guerra Fria",
+        "Atributos_": {
+          "idImagen": "4_C_GF",
+          "idImagenBack": "C",
+          "tipoCarta": 0
+        }
+      },
+      {
+        "conceptos": [
+          "O.T.A.N",
+          "C.E.I",
+          "Mahatma Gandhi"
+        ],
+        "materia": "Guerra Fria",
+        "Atributos_": {
+          "idImagen": "5_C_GF",
+          "idImagenBack": "C",
+          "tipoCarta": 0
+        }
+      },
+      {
+        "conceptos": [
+          "Capitalismo",
+          "Apartheid",
+          "Ho Chi Minh"
+        ],
+        "materia": "Guerra Fria",
+        "Atributos_": {
+          "idImagen": "6_C_GF",
+          "idImagenBack": "C",
+          "tipoCarta": 0
+        }
+      },
+      {
+        "conceptos": [
+          "Estado de Israel ",
+          "Apolo XI",
+          "Nelson Mandela"
+        ],
+        "materia": "Guerra Fria",
+        "Atributos_": {
+          "idImagen": "7_C_GF",
+          "idImagenBack": "C",
+          "tipoCarta": 0
+        }
+      },
+      {
+        "conceptos": [
+          "NASA",
+          "Pacto de Varsovia",
+          "Corea del Sur"
+        ],
+        "materia": "Guerra Fria",
+        "Atributos_": {
+          "idImagen": "8_C_GF",
+          "idImagenBack": "C",
+          "tipoCarta": 0
+        }
+      },
+      {
+        "conceptos": [
+          "Materias Primas",
+          "Reforma Agraria",
+          "Yom Kippur"
+        ],
+        "materia": "Guerra Fria",
+        "Atributos_": {
+          "idImagen": "9_C_GF",
+          "idImagenBack": "C",
+          "tipoCarta": 0
+        }
+      },
+      {
+        "conceptos": [
+          "O.P.E.P",
+          "Neoliberalismo",
+          "Proteccionismo Económico"
+        ],
+        "materia": "Guerra Fria",
+        "Atributos_": {
+          "idImagen": "10_C_GF",
+          "idImagenBack": "C",
+          "tipoCarta": 0
+        }
+      },
+      {
+        "conceptos": [
+          "Gran Bretaña ",
+          "Moviento Hippie",
+          "República Popular China"
+        ],
+        "materia": "Guerra Fria",
+        "Atributos_": {
+          "idImagen": "11_C_GF",
+          "idImagenBack": "C",
+          "tipoCarta": 0
+        }
+      },
+      {
+        "conceptos": [
+          "Francia ",
+          "Primavera de Praga",
+          "Gran Salto Adelante "
+        ],
+        "materia": "Guerra Fria",
+        "Atributos_": {
+          "idImagen": "12_C_GF",
+          "idImagenBack": "C",
+          "tipoCarta": 0
+        }
+      },
+      {
+        "conceptos": [
+          "Europa Oriental ",
+          "Revolución Cultural",
+          "Plan Marshall"
+        ],
+        "materia": "Guerra Fria",
+        "Atributos_": {
+          "idImagen": "13_C_GF",
+          "idImagenBack": "C",
+          "tipoCarta": 0
+        }
+      },
+      {
+        "conceptos": [
+          "U.R.S.S",
+          "Europa Occidental",
+          "Paz de Ginebra "
+        ],
+        "materia": "Guerra Fria",
+        "Atributos_": {
+          "idImagen": "14_C_GF",
+          "idImagenBack": "C",
+          "tipoCarta": 0
+        }
+      },
+      {
+        "conceptos": [
+          "J.F Kennedy ",
+          "Crisis de los Misiles ",
+          "Corea del Norte "
+        ],
+        "materia": "Guerra Fria",
+        "Atributos_": {
+          "idImagen": "15_C_GF",
+          "idImagenBack": "C",
+          "tipoCarta": 0
+        }
+      },
+      {
+        "conceptos": [
+          "Vietcong",
+          "Fidel Castro",
+          "República Federal Alemana "
+        ],
+        "materia": "Guerra Fria",
+        "Atributos_": {
+          "idImagen": "16_C_GF",
+          "idImagenBack": "C",
+          "tipoCarta": 0
+        }
+      },
+      {
+        "conceptos": [
+          "Colonia ",
+          "O.L.P",
+          "Berlín "
+        ],
+        "materia": "Guerra Fria",
+        "Atributos_": {
+          "idImagen": "17_C_GF",
+          "idImagenBack": "C",
+          "tipoCarta": 0
+        }
+      },
+      {
+        "conceptos": [
+          "Crisis Agrícola ",
+          "República Democrática Alemana ",
+          "Mijaíl Gorbachov "
+        ],
+        "materia": "Guerra Fria",
+        "Atributos_": {
+          "idImagen": "18_C_GF",
+          "idImagenBack": "C",
+          "tipoCarta": 0
+        }
+      },
+      {
+        "conceptos": [
+          "Conflicto Ideológico ",
+          "Mao Zedong",
+          "Comecon "
+        ],
+        "materia": "Guerra Fria",
+        "Atributos_": {
+          "idImagen": "19_C_GF",
+          "idImagenBack": "C",
+          "tipoCarta": 0
+        }
+      },
+      {
+        "conceptos": [
+          "Carrera Armamentista ",
+          "Guantánamo ",
+          "Cominform"
+        ],
+        "materia": "Guerra Fria",
+        "Atributos_": {
+          "idImagen": "20_C_GF",
+          "idImagenBack": "C",
+          "tipoCarta": 0
+        }
+      }
+    ],
+    "Genetica": [
+      {
+        "conceptos": [
+          "Núcleo",
+          "Genotipo ",
+          "Brazo Q"
+        ],
+        "materia": "Genetica",
+        "Atributos_": {
+          "idImagen": "1_C_ADN",
+          "idImagenBack": "C",
+          "tipoCarta": 0
+        }
+      },
+      {
+        "conceptos": [
+          "Bases Púricas",
+          "Genética",
+          "Cromosoma Telocéntrico"
+        ],
+        "materia": "Genetica",
+        "Atributos_": {
+          "idImagen": "2_C_ADN",
+          "idImagenBack": "C",
+          "tipoCarta": 0
+        }
+      },
+      {
+        "conceptos": [
+          "Nucleosoma",
+          "Telómero",
+          "Alelo"
+        ],
+        "materia": "Genetica",
+        "Atributos_": {
+          "idImagen": "3_C_ADN",
+          "idImagenBack": "C",
+          "tipoCarta": 0
+        }
+      },
+      {
+        "conceptos": [
+          "Enlace Puente de Hidrógemo",
+          "Cromosoma Metacéntrico",
+          "Cromátidas Hermanas"
+        ],
+        "materia": "Genetica",
+        "Atributos_": {
+          "idImagen": "4_C_ADN",
+          "idImagenBack": "C",
+          "tipoCarta": 0
+        }
+      },
+      {
+        "conceptos": [
+          "Poros Nucleares ",
+          "Grupo Fosfato",
+          "Fotografía 51"
+        ],
+        "materia": "Genetica",
+        "Atributos_": {
+          "idImagen": "5_C_ADN",
+          "idImagenBack": "C",
+          "tipoCarta": 0
+        }
+      },
+      {
+        "conceptos": [
+          "Histonas",
+          "Diploide",
+          "Watson y Crick"
+        ],
+        "materia": "Genetica",
+        "Atributos_": {
+          "idImagen": "6_C_ADN",
+          "idImagenBack": "C",
+          "tipoCarta": 0
+        }
+      },
+      {
+        "conceptos": [
+          "Brazo P",
+          "Dotación Cromosómica ",
+          "Genes"
+        ],
+        "materia": "Genetica",
+        "Atributos_": {
+          "idImagen": "7_C_ADN",
+          "idImagenBack": "C",
+          "tipoCarta": 0
+        }
+      },
+      {
+        "conceptos": [
+          "Cariotipo",
+          "Compactación del ADN",
+          "Célula Procarionte"
+        ],
+        "materia": "Genetica",
+        "Atributos_": {
+          "idImagen": "8_C_ADN",
+          "idImagenBack": "C",
+          "tipoCarta": 0
+        }
+      },
+      {
+        "conceptos": [
+          "Nucléolo",
+          "Rosalind Franklin",
+          "Bases Pirimídicas"
+        ],
+        "materia": "Genetica",
+        "Atributos_": {
+          "idImagen": "9_C_ADN",
+          "idImagenBack": "C",
+          "tipoCarta": 0
+        }
+      },
+      {
+        "conceptos": [
+          "Collar de Cuentas",
+          "Dogma Central de la Biología",
+          "Desoxirribosa"
+        ],
+        "materia": "Genetica",
+        "Atributos_": {
+          "idImagen": "10_C_ADN",
+          "idImagenBack": "C",
+          "tipoCarta": 0
+        }
+      },
+      {
+        "conceptos": [
+          "Doble Hélice ",
+          "Centrómero",
+          "Nucleoplasma"
+        ],
+        "materia": "Genetica",
+        "Atributos_": {
+          "idImagen": "11_C_ADN",
+          "idImagenBack": "C",
+          "tipoCarta": 0
+        }
+      },
+      {
+        "conceptos": [
+          "Haploide ",
+          "Fenotipo",
+          "Envoltura Nuclear"
+        ],
+        "materia": "Genetica",
+        "Atributos_": {
+          "idImagen": "12_C_ADN",
+          "idImagenBack": "C",
+          "tipoCarta": 0
+        }
+      },
+      {
+        "conceptos": [
+          "Guanina",
+          "Célula",
+          "Cromosoma"
+        ],
+        "materia": "Genetica",
+        "Atributos_": {
+          "idImagen": "13_C_ADN",
+          "idImagenBack": "C",
+          "tipoCarta": 0
+        }
+      },
+      {
+        "conceptos": [
+          "Nucleótido",
+          "Cromosomas Sexuales ",
+          "Herencia"
+        ],
+        "materia": "Genetica",
+        "Atributos_": {
+          "idImagen": "14_C_ADN",
+          "idImagenBack": "C",
+          "tipoCarta": 0
+        }
+      },
+      {
+        "conceptos": [
+          "Hebras Antiparalelas",
+          "Cromatina",
+          "Amniocentesis"
+        ],
+        "materia": "Genetica",
+        "Atributos_": {
+          "idImagen": "15_C_ADN",
+          "idImagenBack": "C",
+          "tipoCarta": 0
+        }
+      },
+      {
+        "conceptos": [
+          "Cromosoma Acrocéntrico ",
+          "Base Nitrogenada ",
+          "Modelo Molecular"
+        ],
+        "materia": "Genetica",
+        "Atributos_": {
+          "idImagen": "16_C_ADN",
+          "idImagenBack": "C",
+          "tipoCarta": 0
+        }
+      },
+      {
+        "conceptos": [
+          "Síndrome de Down ",
+          "Nucleoide",
+          "Citocina"
+        ],
+        "materia": "Genetica",
+        "Atributos_": {
+          "idImagen": "17_C_ADN",
+          "idImagenBack": "C",
+          "tipoCarta": 0
+        }
+      },
+      {
+        "conceptos": [
+          "Cromátida ",
+          "ADN",
+          "Cromosomas Autosómicos "
+        ],
+        "materia": "Genetica",
+        "Atributos_": {
+          "idImagen": "18_C_ADN",
+          "idImagenBack": "C",
+          "tipoCarta": 0
+        }
+      },
+      {
+        "conceptos": [
+          "Material Genético ",
+          "Timina",
+          "Cromosomas Homólogos"
+        ],
+        "materia": "Genetica",
+        "Atributos_": {
+          "idImagen": "19_C_ADN",
+          "idImagenBack": "C",
+          "tipoCarta": 0
+        }
+      },
+      {
+        "conceptos": [
+          "Adenina ",
+          "ARN",
+          "Uracilo "
+        ],
+        "materia": "Genetica",
+        "Atributos_": {
+          "idImagen": "20_C_ADN",
+          "idImagenBack": "C",
+          "tipoCarta": 0
+        }
+      }
+    ],
+    "Genero Narrativo": [
+      {
+        "conceptos": [
+          "Ángeles",
+          "Muerte",
+          "Edgar Allan Poe"
+        ],
+        "materia": "Genero Narrativo",
+        "Atributos_": {
+          "idImagen": "1_C_GN",
+          "idImagenBack": "C",
+          "tipoCarta": 0
+        }
+      },
+      {
+        "conceptos": [
+          "Conocimiento",
+          "Filosofía",
+          "Napoleón Bonaparte "
+        ],
+        "materia": "Genero Narrativo",
+        "Atributos_": {
+          "idImagen": "2_C_GN",
+          "idImagenBack": "C",
+          "tipoCarta": 0
+        }
+      },
+      {
+        "conceptos": [
+          "Romanticismo",
+          "Razón",
+          "Benjamín Subercaseaux"
+        ],
+        "materia": "Genero Narrativo",
+        "Atributos_": {
+          "idImagen": "3_C_GN",
+          "idImagenBack": "C",
+          "tipoCarta": 0
+        }
+      },
+      {
+        "conceptos": [
+          "Lúgubre",
+          "Retrato de Dorian Gray",
+          "Mary Shelley"
+        ],
+        "materia": "Genero Narrativo",
+        "Atributos_": {
+          "idImagen": "4_C_GN",
+          "idImagenBack": "C",
+          "tipoCarta": 0
+        }
+      },
+      {
+        "conceptos": [
+          "Bosque",
+          "Frankestein",
+          "Oscar Wilde"
+        ],
+        "materia": "Genero Narrativo",
+        "Atributos_": {
+          "idImagen": "5_C_GN",
+          "idImagenBack": "C",
+          "tipoCarta": 0
+        }
+      },
+      {
+        "conceptos": [
+          "Belleza",
+          "Imaginación",
+          "Gustavo Adolfo Bécquer"
+        ],
+        "materia": "Genero Narrativo",
+        "Atributos_": {
+          "idImagen": "6_C_GN",
+          "idImagenBack": "C",
+          "tipoCarta": 0
+        }
+      },
+      {
+        "conceptos": [
+          "Individualismo ",
+          "I Revolución Industrial",
+          "Walt Withman"
+        ],
+        "materia": "Genero Narrativo",
+        "Atributos_": {
+          "idImagen": "7_C_GN",
+          "idImagenBack": "C",
+          "tipoCarta": 0
+        }
+      },
+      {
+        "conceptos": [
+          "Sentimientos",
+          "Melancolía",
+          "Goethe"
+        ],
+        "materia": "Genero Narrativo",
+        "Atributos_": {
+          "idImagen": "8_C_GN",
+          "idImagenBack": "C",
+          "tipoCarta": 0
+        }
+      },
+      {
+        "conceptos": [
+          "Dolor",
+          "Fantasía",
+          "Víctor Hugo"
+        ],
+        "materia": "Genero Narrativo",
+        "Atributos_": {
+          "idImagen": "9_C_GN",
+          "idImagenBack": "C",
+          "tipoCarta": 0
+        }
+      },
+      {
+        "conceptos": [
+          "Ilustración ",
+          "Expresión de la Interioridad",
+          "Pesimismo"
+        ],
+        "materia": "Genero Narrativo",
+        "Atributos_": {
+          "idImagen": "10_C_GN",
+          "idImagenBack": "C",
+          "tipoCarta": 0
+        }
+      },
+      {
+        "conceptos": [
+          "Igualdad ",
+          "Locus Amoneus",
+          "Juglar"
+        ],
+        "materia": "Genero Narrativo",
+        "Atributos_": {
+          "idImagen": "11_C_GN",
+          "idImagenBack": "C",
+          "tipoCarta": 0
+        }
+      },
+      {
+        "conceptos": [
+          "Carpe Diem",
+          "Rebeldía ",
+          "Tiempo"
+        ],
+        "materia": "Genero Narrativo",
+        "Atributos_": {
+          "idImagen": "12_C_GN",
+          "idImagenBack": "C",
+          "tipoCarta": 0
+        }
+      },
+      {
+        "conceptos": [
+          "Protagosnista ",
+          "Ambiente",
+          "Tempus Fugit"
+        ],
+        "materia": "Genero Narrativo",
+        "Atributos_": {
+          "idImagen": "13_C_GN",
+          "idImagenBack": "C",
+          "tipoCarta": 0
+        }
+      },
+      {
+        "conceptos": [
+          "Monstruo",
+          "Racconto",
+          "Lord Byron"
+        ],
+        "materia": "Genero Narrativo",
+        "Atributos_": {
+          "idImagen": "14_C_GN",
+          "idImagenBack": "C",
+          "tipoCarta": 0
+        }
+      },
+      {
+        "conceptos": [
+          "Héroe",
+          "II Revolución Industrial",
+          "Clases Sociales"
+        ],
+        "materia": "Genero Narrativo",
+        "Atributos_": {
+          "idImagen": "15_C_GN",
+          "idImagenBack": "C",
+          "tipoCarta": 0
+        }
+      },
+      {
+        "conceptos": [
+          "Emisor",
+          "Miedo",
+          "Premonición "
+        ],
+        "materia": "Genero Narrativo",
+        "Atributos_": {
+          "idImagen": "16_C_GN",
+          "idImagenBack": "C",
+          "tipoCarta": 0
+        }
+      },
+      {
+        "conceptos": [
+          "Flash Back",
+          "Mensaje",
+          "Misterio"
+        ],
+        "materia": "Genero Narrativo",
+        "Atributos_": {
+          "idImagen": "17_C_GN",
+          "idImagenBack": "C",
+          "tipoCarta": 0
+        }
+      },
+      {
+        "conceptos": [
+          "Amor",
+          "El Cuervo",
+          "Receptor"
+        ],
+        "materia": "Genero Narrativo",
+        "Atributos_": {
+          "idImagen": "18_C_GN",
+          "idImagenBack": "C",
+          "tipoCarta": 0
+        }
+      },
+      {
+        "conceptos": [
+          "Grotesco",
+          "Sublime",
+          "Feo"
+        ],
+        "materia": "Genero Narrativo",
+        "Atributos_": {
+          "idImagen": "19_C_GN",
+          "idImagenBack": "C",
+          "tipoCarta": 0
+        }
+      },
+      {
+        "conceptos": [
+          "Libertad",
+          "Gestos",
+          "Walter Scott"
+        ],
+        "materia": "Genero Narrativo",
+        "Atributos_": {
+          "idImagen": "20_C_GN",
+          "idImagenBack": "C",
+          "tipoCarta": 0
+        }
+      }
+    ],
+    "Pueblos Precolombinos": [
+      {
+        "conceptos": [
+          "Pueblo Huilliche",
+          "Sau Sau",
+          "Alpacas"
+        ],
+        "materia": "Pueblos Precolombinos",
+        "Atributos_": {
+          "idImagen": "1_C_PP",
+          "idImagenBack": "C",
+          "tipoCarta": 0
+        }
+      },
+      {
+        "conceptos": [
+          "Pueblo Atacameño",
+          "Zona Sur",
+          "Trasquilar"
+        ],
+        "materia": "Pueblos Precolombinos",
+        "Atributos_": {
+          "idImagen": "2_C_PP",
+          "idImagenBack": "C",
+          "tipoCarta": 0
+        }
+      },
+      {
+        "conceptos": [
+          "Pueblo Colla",
+          "Arado de Pie",
+          "Machitún"
+        ],
+        "materia": "Pueblos Precolombinos",
+        "Atributos_": {
+          "idImagen": "3_C_PP",
+          "idImagenBack": "C",
+          "tipoCarta": 0
+        }
+      },
+      {
+        "conceptos": [
+          "Pueblo Aymara",
+          "Zona Austral",
+          "Artesanía en Cobre"
+        ],
+        "materia": "Pueblos Precolombinos",
+        "Atributos_": {
+          "idImagen": "4_C_PP",
+          "idImagenBack": "C",
+          "tipoCarta": 0
+        }
+      },
+      {
+        "conceptos": [
+          "Pueblo Chango",
+          "Zona Centro",
+          "Alfarería"
+        ],
+        "materia": "Pueblos Precolombinos",
+        "Atributos_": {
+          "idImagen": "5_C_PP",
+          "idImagenBack": "C",
+          "tipoCarta": 0
+        }
+      },
+      {
+        "conceptos": [
+          "Pueblo Diaguita",
+          "Trapelacucha",
+          "Guillatún"
+        ],
+        "materia": "Pueblos Precolombinos",
+        "Atributos_": {
+          "idImagen": "6_C_PP",
+          "idImagenBack": "C",
+          "tipoCarta": 0
+        }
+      },
+      {
+        "conceptos": [
+          "Pueblo Mapuche",
+          "Zona Norte ",
+          "Papa"
+        ],
+        "materia": "Pueblos Precolombinos",
+        "Atributos_": {
+          "idImagen": "7_C_PP",
+          "idImagenBack": "C",
+          "tipoCarta": 0
+        }
+      },
+      {
+        "conceptos": [
+          "Pueblo Rapa Nui",
+          "Jarro Pato",
+          "Lobo Marino"
+        ],
+        "materia": "Pueblos Precolombinos",
+        "Atributos_": {
+          "idImagen": "8_C_PP",
+          "idImagenBack": "C",
+          "tipoCarta": 0
+        }
+      },
+      {
+        "conceptos": [
+          "Pueblo Aónikenk o Tehuerlches",
+          "Araucaria",
+          "Llama"
+        ],
+        "materia": "Pueblos Precolombinos",
+        "Atributos_": {
+          "idImagen": "9_C_PP",
+          "idImagenBack": "C",
+          "tipoCarta": 0
+        }
+      },
+      {
+        "conceptos": [
+          "Pueblo Chono",
+          "Maíz",
+          "Tejido en Lana"
+        ],
+        "materia": "Pueblos Precolombinos",
+        "Atributos_": {
+          "idImagen": "10_C_PP",
+          "idImagenBack": "C",
+          "tipoCarta": 0
+        }
+      },
+      {
+        "conceptos": [
+          "Pueblo Kawésquar o Alacalufes",
+          "Jarro Zapato",
+          "Sedentarios"
+        ],
+        "materia": "Pueblos Precolombinos",
+        "Atributos_": {
+          "idImagen": "11_C_PP",
+          "idImagenBack": "C",
+          "tipoCarta": 0
+        }
+      },
+      {
+        "conceptos": [
+          "Pueblo Yagán",
+          "Mapudungún",
+          "Uta"
+        ],
+        "materia": "Pueblos Precolombinos",
+        "Atributos_": {
+          "idImagen": "12_C_PP",
+          "idImagenBack": "C",
+          "tipoCarta": 0
+        }
+      },
+      {
+        "conceptos": [
+          "Cultivo en Terrazas",
+          "Balsas de Lobo Marino",
+          "Cestería"
+        ],
+        "materia": "Pueblos Precolombinos",
+        "Atributos_": {
+          "idImagen": "13_C_PP",
+          "idImagenBack": "C",
+          "tipoCarta": 0
+        }
+      },
+      {
+        "conceptos": [
+          "Telar o Witxal",
+          "Agricultura",
+          "Zampoña"
+        ],
+        "materia": "Pueblos Precolombinos",
+        "Atributos_": {
+          "idImagen": "14_C_PP",
+          "idImagenBack": "C",
+          "tipoCarta": 0
+        }
+      },
+      {
+        "conceptos": [
+          "Cosmovisión",
+          "Ganadería",
+          "Tomate"
+        ],
+        "materia": "Pueblos Precolombinos",
+        "Atributos_": {
+          "idImagen": "15_C_PP",
+          "idImagenBack": "C",
+          "tipoCarta": 0
+        }
+      },
+      {
+        "conceptos": [
+          "Machi",
+          "Pesca",
+          "Recolección"
+        ],
+        "materia": "Pueblos Precolombinos",
+        "Atributos_": {
+          "idImagen": "16_C_PP",
+          "idImagenBack": "C",
+          "tipoCarta": 0
+        }
+      },
+      {
+        "conceptos": [
+          "Wiñol Tripantu",
+          "Pintura Rupestre",
+          "Caza"
+        ],
+        "materia": "Pueblos Precolombinos",
+        "Atributos_": {
+          "idImagen": "17_C_PP",
+          "idImagenBack": "C",
+          "tipoCarta": 0
+        }
+      },
+      {
+        "conceptos": [
+          "Kultrún",
+          "Dalcas",
+          "Purrún"
+        ],
+        "materia": "Pueblos Precolombinos",
+        "Atributos_": {
+          "idImagen": "18_C_PP",
+          "idImagenBack": "C",
+          "tipoCarta": 0
+        }
+      },
+      {
+        "conceptos": [
+          "Ruka",
+          "Phawa",
+          "Nómadas"
+        ],
+        "materia": "Pueblos Precolombinos",
+        "Atributos_": {
+          "idImagen": "19_C_PP",
+          "idImagenBack": "C",
+          "tipoCarta": 0
+        }
+      },
+      {
+        "conceptos": [
+          "Pachamama",
+          "Tata Inti",
+          "Canelo"
+        ],
+        "materia": "Pueblos Precolombinos",
+        "Atributos_": {
+          "idImagen": "20_C_PP",
+          "idImagenBack": "C",
+          "tipoCarta": 0
+        }
+      }
+    ],
+    "Aventura": [
+      {
+        "conceptos": [
+          "Castillo",
+          "Barco pirata",
+          "Robot (Bailando)"
+        ],
+        "materia": "Aventura",
+        "Atributos_": {
+          "idImagen": "1_C_AV",
+          "idImagenBack": "C",
+          "tipoCarta": 0
+        }
+      },
+      {
+        "conceptos": [
+          "Valle",
+          "Escudo ",
+          "Dinosaurio (distraído) "
+        ],
+        "materia": "Aventura",
+        "Atributos_": {
+          "idImagen": "2_C_AV",
+          "idImagenBack": "C",
+          "tipoCarta": 0
+        }
+      },
+      {
+        "conceptos": [
+          "Bosque ",
+          "Cofre ",
+          "Pirata (enojado)"
+        ],
+        "materia": "Aventura",
+        "Atributos_": {
+          "idImagen": "3_C_AV",
+          "idImagenBack": "C",
+          "tipoCarta": 0
+        }
+      },
+      {
+        "conceptos": [
+          "Mar",
+          "Mapa ",
+          "Rey y Reina (neutros)"
+        ],
+        "materia": "Aventura",
+        "Atributos_": {
+          "idImagen": "4_C_AV",
+          "idImagenBack": "C",
+          "tipoCarta": 0
+        }
+      },
+      {
+        "conceptos": [
+          "Iglesia ",
+          "Linterna ",
+          "Indigena (amigable)"
+        ],
+        "materia": "Aventura",
+        "Atributos_": {
+          "idImagen": "5_C_AV",
+          "idImagenBack": "C",
+          "tipoCarta": 0
+        }
+      },
+      {
+        "conceptos": [
+          "Circo ",
+          "Teléfono ",
+          "Caballero (valiente)"
+        ],
+        "materia": "Aventura",
+        "Atributos_": {
+          "idImagen": "6_C_AV",
+          "idImagenBack": "C",
+          "tipoCarta": 0
+        }
+      },
+      {
+        "conceptos": [
+          "Multicancha",
+          "Cohete",
+          "Extraterrestre (observando)"
+        ],
+        "materia": "Aventura",
+        "Atributos_": {
+          "idImagen": "7_C_AV",
+          "idImagenBack": "C",
+          "tipoCarta": 0
+        }
+      },
+      {
+        "conceptos": [
+          "Granja ",
+          "Auto ",
+          "Vampiro (hambriento)"
+        ],
+        "materia": "Aventura",
+        "Atributos_": {
+          "idImagen": "8_C_AV",
+          "idImagenBack": "C",
+          "tipoCarta": 0
+        }
+      },
+      {
+        "conceptos": [
+          "Zoológico",
+          "Espada ",
+          "Mago (concentrado)"
+        ],
+        "materia": "Aventura",
+        "Atributos_": {
+          "idImagen": "9_C_AV",
+          "idImagenBack": "C",
+          "tipoCarta": 0
+        }
+      },
+      {
+        "conceptos": [
+          "Parque de Diversión",
+          "Bicicleta ",
+          "Ninja (atacando)"
+        ],
+        "materia": "Aventura",
+        "Atributos_": {
+          "idImagen": "10_C_AV",
+          "idImagenBack": "C",
+          "tipoCarta": 0
+        }
+      },
+      {
+        "conceptos": [
+          "Desierto ",
+          "Alfombra Mágica ",
+          "Duende (escondiendo cosas)"
+        ],
+        "materia": "Aventura",
+        "Atributos_": {
+          "idImagen": "11_C_AV",
+          "idImagenBack": "C",
+          "tipoCarta": 0
+        }
+      },
+      {
+        "conceptos": [
+          "Concierto ",
+          "Varita Mágica ",
+          "Superhéroe (debilitado)"
+        ],
+        "materia": "Aventura",
+        "Atributos_": {
+          "idImagen": "12_C_AV",
+          "idImagenBack": "C",
+          "tipoCarta": 0
+        }
+      },
+      {
+        "conceptos": [
+          "Espacio ",
+          "Cámara Fotográfica",
+          "Sirena (enamorada)"
+        ],
+        "materia": "Aventura",
+        "Atributos_": {
+          "idImagen": "13_C_AV",
+          "idImagenBack": "C",
+          "tipoCarta": 0
+        }
+      },
+      {
+        "conceptos": [
+          "Piscina ",
+          "Botiquín ",
+          "Astronauta (flotando)"
+        ],
+        "materia": "Aventura",
+        "Atributos_": {
+          "idImagen": "14_C_AV",
+          "idImagenBack": "C",
+          "tipoCarta": 0
+        }
+      },
+      {
+        "conceptos": [
+          "Museo ",
+          "Sombrero de Mago ",
+          "Gigante (destruyendo)"
+        ],
+        "materia": "Aventura",
+        "Atributos_": {
+          "idImagen": "15_C_AV",
+          "idImagenBack": "C",
+          "tipoCarta": 0
+        }
+      },
+      {
+        "conceptos": [
+          "Acuario ",
+          "Mochila ",
+          "Ciclope (cantando)"
+        ],
+        "materia": "Aventura",
+        "Atributos_": {
+          "idImagen": "16_C_AV",
+          "idImagenBack": "C",
+          "tipoCarta": 0
+        }
+      },
+      {
+        "conceptos": [
+          "Montaña ",
+          "Carpa ",
+          "Gargola (feliz)"
+        ],
+        "materia": "Aventura",
+        "Atributos_": {
+          "idImagen": "17_C_AV",
+          "idImagenBack": "C",
+          "tipoCarta": 0
+        }
+      },
+      {
+        "conceptos": [
+          "Isla ",
+          "Pala ",
+          "Topo (verguenza y al hoyo)."
+        ],
+        "materia": "Aventura",
+        "Atributos_": {
+          "idImagen": "18_C_AV",
+          "idImagenBack": "C",
+          "tipoCarta": 0
+        }
+      },
+      {
+        "conceptos": [
+          "Volcán ",
+          "Comida ",
+          "Unicornio (cariñoso)"
+        ],
+        "materia": "Aventura",
+        "Atributos_": {
+          "idImagen": "19_C_AV",
+          "idImagenBack": "C",
+          "tipoCarta": 0
+        }
+      },
+      {
+        "conceptos": [
+          "Casa ",
+          "Avión ",
+          "Dragón (triste)"
+        ],
+        "materia": "Aventura",
+        "Atributos_": {
+          "idImagen": "20_C_AV",
+          "idImagenBack": "C",
+          "tipoCarta": 0
+        }
+      }
+    ],
+    "Genero no Literario": [
+      {
+        "conceptos": [
+          "CARTA",
+          "OPINIÓN",
+          "TEXTOS CIENTÍFICOS"
+        ],
+        "materia": "Genero no Literario",
+        "Atributos_": {
+          "idImagen": "1_C_GL",
+          "idImagenBack": "C",
+          "tipoCarta": 0
+        }
+      },
+      {
+        "conceptos": [
+          "ARGUMENTO",
+          "TEXTOS PERIODÍSTICOS",
+          "DEBATE"
+        ],
+        "materia": "Genero no Literario",
+        "Atributos_": {
+          "idImagen": "2_C_GL",
+          "idImagenBack": "C",
+          "tipoCarta": 0
+        }
+      },
+      {
+        "conceptos": [
+          "NOTICIA",
+          "RECETA",
+          "PUBLICIDAD"
+        ],
+        "materia": "Genero no Literario",
+        "Atributos_": {
+          "idImagen": "3_C_GL",
+          "idImagenBack": "C",
+          "tipoCarta": 0
+        }
+      },
+      {
+        "conceptos": [
+          "HECHOS",
+          "AFICHE",
+          "VOCABULARIO"
+        ],
+        "materia": "Genero no Literario",
+        "Atributos_": {
+          "idImagen": "4_C_GL",
+          "idImagenBack": "C",
+          "tipoCarta": 0
+        }
+      },
+      {
+        "conceptos": [
+          "OBJETIVIDAD",
+          "EMISOR",
+          "TIEMPO"
+        ],
+        "materia": "Genero no Literario",
+        "Atributos_": {
+          "idImagen": "5_C_GL",
+          "idImagenBack": "C",
+          "tipoCarta": 0
+        }
+      },
+      {
+        "conceptos": [
+          "RECEPTOR",
+          "PERIÓDICO",
+          "MEDIOS MASIVOS DE COMUNICACIÓN"
+        ],
+        "materia": "Genero no Literario",
+        "Atributos_": {
+          "idImagen": "6_C_GL",
+          "idImagenBack": "C",
+          "tipoCarta": 0
+        }
+      },
+      {
+        "conceptos": [
+          "LENGUAJE DENOTATIVO",
+          "CANAL",
+          "PROPAGANDA"
+        ],
+        "materia": "Genero no Literario",
+        "Atributos_": {
+          "idImagen": "7_C_GL",
+          "idImagenBack": "C",
+          "tipoCarta": 0
+        }
+      },
+      {
+        "conceptos": [
+          "BIOGRAFÍA",
+          "ENTREVISTA",
+          "MENSAJE"
+        ],
+        "materia": "Genero no Literario",
+        "Atributos_": {
+          "idImagen": "8_C_GL",
+          "idImagenBack": "C",
+          "tipoCarta": 0
+        }
+      },
+      {
+        "conceptos": [
+          "REALIDAD",
+          "LENGUAJE CONNOTATIVO",
+          "DIGITAL"
+        ],
+        "materia": "Genero no Literario",
+        "Atributos_": {
+          "idImagen": "9_C_GL",
+          "idImagenBack": "C",
+          "tipoCarta": 0
+        }
+      },
+      {
+        "conceptos": [
+          "SUBJETIVIDAD",
+          "FANTASÍA",
+          "FUNCIÓN APELATIVA"
+        ],
+        "materia": "Genero no Literario",
+        "Atributos_": {
+          "idImagen": "10_C_GL",
+          "idImagenBack": "C",
+          "tipoCarta": 0
+        }
+      },
+      {
+        "conceptos": [
+          "TEXTO NORMATIVO",
+          "MODERADOR",
+          "TÓPICO"
+        ],
+        "materia": "Genero no Literario",
+        "Atributos_": {
+          "idImagen": "11_C_GL",
+          "idImagenBack": "C",
+          "tipoCarta": 0
+        }
+      },
+      {
+        "conceptos": [
+          "TEMA",
+          "CÓDIGO",
+          "MANUAL DE INSTRUCCIÓN"
+        ],
+        "materia": "Genero no Literario",
+        "Atributos_": {
+          "idImagen": "12_C_GL",
+          "idImagenBack": "C",
+          "tipoCarta": 0
+        }
+      },
+      {
+        "conceptos": [
+          "CONSTITUCIÓN",
+          "OPONENTE",
+          "ACTUALIDAD"
+        ],
+        "materia": "Genero no Literario",
+        "Atributos_": {
+          "idImagen": "13_C_GL",
+          "idImagenBack": "C",
+          "tipoCarta": 0
+        }
+      },
+      {
+        "conceptos": [
+          "FUNCIÓN REFERENCIAL",
+          "LENGUAJE VERBAL",
+          "PÚBLICO"
+        ],
+        "materia": "Genero no Literario",
+        "Atributos_": {
+          "idImagen": "14_C_GL",
+          "idImagenBack": "C",
+          "tipoCarta": 0
+        }
+      },
+      {
+        "conceptos": [
+          "REDACCIÓN",
+          "LENGUAJE NO VERBAL",
+          "INTRODUCCIÓN"
+        ],
+        "materia": "Genero no Literario",
+        "Atributos_": {
+          "idImagen": "15_C_GL",
+          "idImagenBack": "C",
+          "tipoCarta": 0
+        }
+      },
+      {
+        "conceptos": [
+          "DESARROLLO",
+          "LENGUAJE PARAVERBAL",
+          "SOCIEDAD"
+        ],
+        "materia": "Genero no Literario",
+        "Atributos_": {
+          "idImagen": "16_C_GL",
+          "idImagenBack": "C",
+          "tipoCarta": 0
+        }
+      },
+      {
+        "conceptos": [
+          "CIENCIA",
+          "RESUMEN",
+          "EXPOSICIÓN"
+        ],
+        "materia": "Genero no Literario",
+        "Atributos_": {
+          "idImagen": "17_C_GL",
+          "idImagenBack": "C",
+          "tipoCarta": 0
+        }
+      },
+      {
+        "conceptos": [
+          "ARTE",
+          "CONCLUSIÓN",
+          "CRÍTICA"
+        ],
+        "materia": "Genero no Literario",
+        "Atributos_": {
+          "idImagen": "18_C_GL",
+          "idImagenBack": "C",
+          "tipoCarta": 0
+        }
+      },
+      {
+        "conceptos": [
+          "AUDIOVISUAL",
+          "AUDIOVISUAL",
+          "DEPORTE"
+        ],
+        "materia": "Genero no Literario",
+        "Atributos_": {
+          "idImagen": "19_C_GL",
+          "idImagenBack": "C",
+          "tipoCarta": 0
+        }
+      },
+      {
+        "conceptos": [
+          "FUNCIÓN EMOTIVA",
+          "RADIOFÓNICO",
+          "IMPRESO"
+        ],
+        "materia": "Genero no Literario",
+        "Atributos_": {
+          "idImagen": "20_C_GL",
+          "idImagenBack": "C",
+          "tipoCarta": 0
+        }
+      }
+    ]
+  },
+  "Eventos": {
+    "Tiempo": [
+      {
+        "descripcion": "Ganas 30 segundos solo en las exposiciones de puentes.",
+        "tipoEvento": 0,
+        "Atributos_": {
+          "idImagen": "E_TI_F",
+          "idImagenBack": "E_TI_B",
+          "tipoCarta": 1
+        }
+      },
+      {
+        "descripcion": "Aumenta en 10 segundos todas tus exposiciones.",
+        "tipoEvento": 0,
+        "Atributos_": {
+          "idImagen": "E_TI_F",
+          "idImagenBack": "E_TI_B",
+          "tipoCarta": 1
+        }
+      },
+      {
+        "descripcion": "Todos los jugadores pierden 10 segundos de exposición por cada jugador en la partida.",
+        "tipoEvento": 0,
+        "Atributos_": {
+          "idImagen": "E_TI_F",
+          "idImagenBack": "E_TI_B",
+          "tipoCarta": 1
+        }
+      },
+      {
+        "descripcion": "Tu tiempo de puentes y conceptos se reduce a 30 segundos.",
+        "tipoEvento": 0,
+        "Atributos_": {
+          "idImagen": "E_TI_F",
+          "idImagenBack": "E_TI_B",
+          "tipoCarta": 1
+        }
+      },
+      {
+        "descripcion": "Ganas 30 segundos solo en las exposiciones de conceptos. ",
+        "tipoEvento": 0,
+        "Atributos_": {
+          "idImagen": "E_TI_F",
+          "idImagenBack": "E_TI_B",
+          "tipoCarta": 1
+        }
+      }
+    ],
+    "Trampa": [
+      {
+        "descripcion": "El jugador activa el péndulo, dependiendo del resultado, el concepto o puente  con mayor puntaje se reduce a la mitad, redondeando hacia abajo.",
+        "tipoEvento": 2,
+        "Atributos_": {
+          "idImagen": "E_TA_F",
+          "idImagenBack": "E_TA_B",
+          "tipoCarta": 1
+        }
+      },
+      {
+        "descripcion": "Expone tus cartas y elige el concepto con mayor puntaje. Reduce el puntaje  de este a la mitad, redondeando hacia abajo.",
+        "tipoEvento": 2,
+        "Atributos_": {
+          "idImagen": "E_TA_F",
+          "idImagenBack": "E_TA_B",
+          "tipoCarta": 1
+        }
+      },
+      {
+        "descripcion": "Expone tus cartas y elige el concepto con mayor puntaje. El resultado obtenido se reduce a 0.",
+        "tipoEvento": 2,
+        "Atributos_": {
+          "idImagen": "E_TA_F",
+          "idImagenBack": "E_TA_B",
+          "tipoCarta": 1
+        }
+      },
+      {
+        "descripcion": "Expone tus cartas y elige el puente con mayor puntaje. Reduce el resultado de este a la mitad, redondeando hacia abajo.",
+        "tipoEvento": 2,
+        "Atributos_": {
+          "idImagen": "E_TA_F",
+          "idImagenBack": "E_TA_B",
+          "tipoCarta": 1
+        }
+      },
+      {
+        "descripcion": "Expone tus cartas y elige el puente con mayor puntaje. El resultado obtenido se reduce a 0.",
+        "tipoEvento": 2,
+        "Atributos_": {
+          "idImagen": "E_TA_F",
+          "idImagenBack": "E_TA_B",
+          "tipoCarta": 1
+        }
+      }
+    ],
+    "Bonus": [
+      {
+        "descripcion": "El jugador activa el péndulo, dependiendo del resultado, elige un concepto o puente, obtén el puntaje total de este.",
+        "tipoEvento": 1,
+        "Atributos_": {
+          "idImagen": "E_B_F",
+          "idImagenBack": "E_B_B",
+          "tipoCarta": 1
+        }
+      },
+      {
+        "descripcion": "Expone tus cartas y elige uno de tus conceptos, obtén el doble de puntaje.",
+        "tipoEvento": 1,
+        "Atributos_": {
+          "idImagen": "E_B_F",
+          "idImagenBack": "E_B_B",
+          "tipoCarta": 1
+        }
+      },
+      {
+        "descripcion": "Expone tus cartas y elige un concepto, obtén el puntaje total de este.",
+        "tipoEvento": 1,
+        "Atributos_": {
+          "idImagen": "E_B_F",
+          "idImagenBack": "E_B_B",
+          "tipoCarta": 1
+        }
+      },
+      {
+        "descripcion": "Expone tus cartas y elige un puente, obtén el puntaje total de este.",
+        "tipoEvento": 1,
+        "Atributos_": {
+          "idImagen": "E_B_F",
+          "idImagenBack": "E_B_B",
+          "tipoCarta": 1
+        }
+      },
+      {
+        "descripcion": "Expone tus cartas y elige un puente, obtén el doble del puntaje total de este.",
+        "tipoEvento": 1,
+        "Atributos_": {
+          "idImagen": "E_B_F",
+          "idImagenBack": "E_B_B",
+          "tipoCarta": 1
+        }
+      }
+    ],
+    "Ayuda": [
+      {
+        "descripcion": "El master explica un concepto a elección del jugador.",
+        "tipoEvento": 4,
+        "Atributos_": {
+          "idImagen": "E_A_F",
+          "idImagenBack": "E_A_B",
+          "tipoCarta": 1
+        }
+      },
+      {
+        "descripcion": "El master explica un puente a elección del jugador.",
+        "tipoEvento": 4,
+        "Atributos_": {
+          "idImagen": "E_A_F",
+          "idImagenBack": "E_A_B",
+          "tipoCarta": 1
+        }
+      },
+      {
+        "descripcion": "El jugador activa el péndulo, dependiendo del resultado, el master explica un concepto o puente alaterio.",
+        "tipoEvento": 4,
+        "Atributos_": {
+          "idImagen": "E_A_F",
+          "idImagenBack": "E_A_B",
+          "tipoCarta": 1
+        }
+      },
+      {
+        "descripcion": "El jugador activa el péndulo, dependiendo del resultado, el master explica un concepto aleatoreo o a elección del jugador.",
+        "tipoEvento": 4,
+        "Atributos_": {
+          "idImagen": "E_A_F",
+          "idImagenBack": "E_A_B",
+          "tipoCarta": 1
+        }
+      },
+      {
+        "descripcion": "El jugador activa el péndulo, dependiendo del resultado, el master explica un puente aleatoreo o a elección del jugador.",
+        "tipoEvento": 4,
+        "Atributos_": {
+          "idImagen": "E_A_F",
+          "idImagenBack": "E_A_B",
+          "tipoCarta": 1
+        }
+      }
+    ]
+  },
+  "Preguntas": {
+    "Guerra Fria": [
+      {
+        "materia": "Guerra Fria",
+        "descripcion": "¿Cuáles son las causas por las que es derrotada la U.R.S.S durante la Guerra Fría?  Explíquelas",
+        "tipoEvento": 3,
+        "Atributos_": {
+          "idImagen": "E_P_F",
+          "idImagenBack": "E_P_B",
+          "tipoCarta": 1
+        }
+      },
+      {
+        "materia": "Guerra Fria",
+        "descripcion": "¿Por qué motivos EE.UU fue derrotado en Vietnam? Desarrolle 2 de ellos.",
+        "tipoEvento": 3,
+        "Atributos_": {
+          "idImagen": "E_P_F",
+          "idImagenBack": "E_P_B",
+          "tipoCarta": 1
+        }
+      },
+      {
+        "materia": "Guerra Fria",
+        "descripcion": "¿Qué se entiende por Carrera Espacial durante la Guerra Fría? ",
+        "tipoEvento": 3,
+        "Atributos_": {
+          "idImagen": "E_P_F",
+          "idImagenBack": "E_P_B",
+          "tipoCarta": 1
+        }
+      },
+      {
+        "materia": "Guerra Fria",
+        "descripcion": "¿Cuáles son los planes de ayuda de EE.UU y U.R.S.S para reactivar la economía en Europa? Exponga 3 de ellos en detalle.",
+        "tipoEvento": 3,
+        "Atributos_": {
+          "idImagen": "E_P_F",
+          "idImagenBack": "E_P_B",
+          "tipoCarta": 1
+        }
+      },
+      {
+        "materia": "Guerra Fria",
+        "descripcion": "¿Qué personajes son los más destacados por sus aportes políticos, sociales o económicos durante la Guerra Fría? Explique 3 que no hayan aparecido en sus cartas.",
+        "tipoEvento": 3,
+        "Atributos_": {
+          "idImagen": "E_P_F",
+          "idImagenBack": "E_P_B",
+          "tipoCarta": 1
+        }
+      },
+      {
+        "materia": "Guerra Fria",
+        "descripcion": "¿Cuáles son las características del capitalismo y del comunismo? Explíque 2 para cada uno.",
+        "tipoEvento": 3,
+        "Atributos_": {
+          "idImagen": "E_P_F",
+          "idImagenBack": "E_P_B",
+          "tipoCarta": 1
+        }
+      }
+    ],
+    "Genetica": [
+      {
+        "materia": "Genetica",
+        "descripcion": "¿Qué características estructurales presenta un nucleótido? ",
+        "tipoEvento": 3,
+        "Atributos_": {
+          "idImagen": "E_P_F",
+          "idImagenBack": "E_P_B",
+          "tipoCarta": 1
+        }
+      },
+      {
+        "materia": "Genetica",
+        "descripcion": "¿Cómo se organiza un cariotipo?",
+        "tipoEvento": 3,
+        "Atributos_": {
+          "idImagen": "E_P_F",
+          "idImagenBack": "E_P_B",
+          "tipoCarta": 1
+        }
+      },
+      {
+        "materia": "Genetica",
+        "descripcion": "¿Qué características estructurales presenta el ADN?",
+        "tipoEvento": 3,
+        "Atributos_": {
+          "idImagen": "E_P_F",
+          "idImagenBack": "E_P_B",
+          "tipoCarta": 1
+        }
+      },
+      {
+        "materia": "Genetica",
+        "descripcion": "¿Cuál es el número de cromosomas en una célula haploides de la especie humana?",
+        "tipoEvento": 3,
+        "Atributos_": {
+          "idImagen": "E_P_F",
+          "idImagenBack": "E_P_B",
+          "tipoCarta": 1
+        }
+      },
+      {
+        "materia": "Genetica",
+        "descripcion": "¿Qué semejanzas y diferencias que se pueden encontrar al comparar un cariotipo femenino con uno masculino, siendo estos normales, sin enfermedades cromosómicas? Exponga dos para cada caso.",
+        "tipoEvento": 3,
+        "Atributos_": {
+          "idImagen": "E_P_F",
+          "idImagenBack": "E_P_B",
+          "tipoCarta": 1
+        }
+      },
+      {
+        "materia": "Genetica",
+        "descripcion": "¿Qué función cumple el grupo fosfato en la molécula de ADN?",
+        "tipoEvento": 3,
+        "Atributos_": {
+          "idImagen": "E_P_F",
+          "idImagenBack": "E_P_B",
+          "tipoCarta": 1
+        }
+      }
+    ],
+    "Pueblos Precolombinos": [
+      {
+        "materia": "Pueblos Precolombinos",
+        "descripcion": "¿Qué características poseen los pueblos sedentarios? Menciona y explica dos de ellas.",
+        "tipoEvento": 3,
+        "Atributos_": {
+          "idImagen": "E_P_F",
+          "idImagenBack": "E_P_B",
+          "tipoCarta": 1
+        }
+      },
+      {
+        "materia": "Pueblos Precolombinos",
+        "descripcion": "¿Qué características poseen los pueblos nómades? Menciona y explica dos de ellas.",
+        "tipoEvento": 3,
+        "Atributos_": {
+          "idImagen": "E_P_F",
+          "idImagenBack": "E_P_B",
+          "tipoCarta": 1
+        }
+      },
+      {
+        "materia": "Pueblos Precolombinos",
+        "descripcion": "¿Qué elementos en común tiene la cosmovisión de los pueblos precolombinos? Desarrolla uno de ellos.",
+        "tipoEvento": 3,
+        "Atributos_": {
+          "idImagen": "E_P_F",
+          "idImagenBack": "E_P_B",
+          "tipoCarta": 1
+        }
+      },
+      {
+        "materia": "Pueblos Precolombinos",
+        "descripcion": "¿Cuál de todos los pueblos originarios fue el que más te gustó? ¿Por qué?",
+        "tipoEvento": 3,
+        "Atributos_": {
+          "idImagen": "E_P_F",
+          "idImagenBack": "E_P_B",
+          "tipoCarta": 1
+        }
+      },
+      {
+        "materia": "Pueblos Precolombinos",
+        "descripcion": "¿Existen similitudes entre la vida de los pueblos precolombinos y la qué tenemos en la actualidad? Explica una de ellas.",
+        "tipoEvento": 3,
+        "Atributos_": {
+          "idImagen": "E_P_F",
+          "idImagenBack": "E_P_B",
+          "tipoCarta": 1
+        }
+      }
+    ]
+  }
+}

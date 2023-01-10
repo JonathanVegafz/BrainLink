@@ -1,0 +1,671 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c699f5ebf38580b40bf79d2995750d34, type: 3}
+  m_Name: Parciador
+  m_EditorClassIdentifier: 
+  fromJson: "{\r\n  \"Conceptos\": {\r\n    \"Guerra Fria\": [\r\n      {\r\n       
+    \"conceptos\": [\r\n          \"Sputnik\",\r\n          \"Propaganda\",\r\n         
+    \"Muro de Berl\xEDn\"\r\n        ],\r\n        \"materia\": \"Guerra Fria\",\r\n       
+    \"Atributos_\": {\r\n          \"idImagen\": \"1_C_GF\",\r\n          \"idImagenBack\":
+    \"C\",\r\n          \"tipoCarta\": 0\r\n        }\r\n      },\r\n      {\r\n       
+    \"conceptos\": [\r\n          \"EE.UU\",\r\n          \"Comunismo\",\r\n         
+    \"Tratado de Paz de 1953\"\r\n        ],\r\n        \"materia\": \"Guerra Fria\",\r\n       
+    \"Atributos_\": {\r\n          \"idImagen\": \"2_C_GF\",\r\n          \"idImagenBack\":
+    \"C\",\r\n          \"tipoCarta\": 0\r\n        }\r\n      },\r\n      {\r\n       
+    \"conceptos\": [\r\n          \"Pakist\xE1n\",\r\n          \"Perestroika\",\r\n         
+    \"Cortina de Hierro\"\r\n        ],\r\n        \"materia\": \"Guerra Fria\",\r\n       
+    \"Atributos_\": {\r\n          \"idImagen\": \"3_C_GF\",\r\n          \"idImagenBack\":
+    \"C\",\r\n          \"tipoCarta\": 0\r\n        }\r\n      },\r\n      {\r\n       
+    \"conceptos\": [\r\n          \"Glasnost\",\r\n          \"Resistencia Pasiva\",\r\n         
+    \"Mundo Bipolar\"\r\n        ],\r\n        \"materia\": \"Guerra Fria\",\r\n       
+    \"Atributos_\": {\r\n          \"idImagen\": \"4_C_GF\",\r\n          \"idImagenBack\":
+    \"C\",\r\n          \"tipoCarta\": 0\r\n        }\r\n      },\r\n      {\r\n       
+    \"conceptos\": [\r\n          \"O.T.A.N\",\r\n          \"C.E.I\",\r\n         
+    \"Mahatma Gandhi\"\r\n        ],\r\n        \"materia\": \"Guerra Fria\",\r\n       
+    \"Atributos_\": {\r\n          \"idImagen\": \"5_C_GF\",\r\n          \"idImagenBack\":
+    \"C\",\r\n          \"tipoCarta\": 0\r\n        }\r\n      },\r\n      {\r\n       
+    \"conceptos\": [\r\n          \"Capitalismo\",\r\n          \"Apartheid\",\r\n         
+    \"Ho Chi Minh\"\r\n        ],\r\n        \"materia\": \"Guerra Fria\",\r\n       
+    \"Atributos_\": {\r\n          \"idImagen\": \"6_C_GF\",\r\n          \"idImagenBack\":
+    \"C\",\r\n          \"tipoCarta\": 0\r\n        }\r\n      },\r\n      {\r\n       
+    \"conceptos\": [\r\n          \"Estado de Israel \",\r\n          \"Apolo XI\",\r\n         
+    \"Nelson Mandela\"\r\n        ],\r\n        \"materia\": \"Guerra Fria\",\r\n       
+    \"Atributos_\": {\r\n          \"idImagen\": \"7_C_GF\",\r\n          \"idImagenBack\":
+    \"C\",\r\n          \"tipoCarta\": 0\r\n        }\r\n      },\r\n      {\r\n       
+    \"conceptos\": [\r\n          \"NASA\",\r\n          \"Pacto de Varsovia\",\r\n         
+    \"Corea del Sur\"\r\n        ],\r\n        \"materia\": \"Guerra Fria\",\r\n       
+    \"Atributos_\": {\r\n          \"idImagen\": \"8_C_GF\",\r\n          \"idImagenBack\":
+    \"C\",\r\n          \"tipoCarta\": 0\r\n        }\r\n      },\r\n      {\r\n       
+    \"conceptos\": [\r\n          \"Materias Primas\",\r\n          \"Reforma Agraria\",\r\n         
+    \"Yom Kippur\"\r\n        ],\r\n        \"materia\": \"Guerra Fria\",\r\n       
+    \"Atributos_\": {\r\n          \"idImagen\": \"9_C_GF\",\r\n          \"idImagenBack\":
+    \"C\",\r\n          \"tipoCarta\": 0\r\n        }\r\n      },\r\n      {\r\n       
+    \"conceptos\": [\r\n          \"O.P.E.P\",\r\n          \"Neoliberalismo\",\r\n         
+    \"Proteccionismo Econ\xF3mico\"\r\n        ],\r\n        \"materia\": \"Guerra
+    Fria\",\r\n        \"Atributos_\": {\r\n          \"idImagen\": \"10_C_GF\",\r\n         
+    \"idImagenBack\": \"C\",\r\n          \"tipoCarta\": 0\r\n        }\r\n     
+    },\r\n      {\r\n        \"conceptos\": [\r\n          \"Gran Breta\xF1a \",\r\n         
+    \"Moviento Hippie\",\r\n          \"Rep\xFAblica Popular China\"\r\n        ],\r\n       
+    \"materia\": \"Guerra Fria\",\r\n        \"Atributos_\": {\r\n          \"idImagen\":
+    \"11_C_GF\",\r\n          \"idImagenBack\": \"C\",\r\n          \"tipoCarta\":
+    0\r\n        }\r\n      },\r\n      {\r\n        \"conceptos\": [\r\n         
+    \"Francia \",\r\n          \"Primavera de Praga\",\r\n          \"Gran Salto
+    Adelante \"\r\n        ],\r\n        \"materia\": \"Guerra Fria\",\r\n       
+    \"Atributos_\": {\r\n          \"idImagen\": \"12_C_GF\",\r\n          \"idImagenBack\":
+    \"C\",\r\n          \"tipoCarta\": 0\r\n        }\r\n      },\r\n      {\r\n       
+    \"conceptos\": [\r\n          \"Europa Oriental \",\r\n          \"Revoluci\xF3n
+    Cultural\",\r\n          \"Plan Marshall\"\r\n        ],\r\n        \"materia\":
+    \"Guerra Fria\",\r\n        \"Atributos_\": {\r\n          \"idImagen\": \"13_C_GF\",\r\n         
+    \"idImagenBack\": \"C\",\r\n          \"tipoCarta\": 0\r\n        }\r\n     
+    },\r\n      {\r\n        \"conceptos\": [\r\n          \"U.R.S.S\",\r\n         
+    \"Europa Occidental\",\r\n          \"Paz de Ginebra \"\r\n        ],\r\n       
+    \"materia\": \"Guerra Fria\",\r\n        \"Atributos_\": {\r\n          \"idImagen\":
+    \"14_C_GF\",\r\n          \"idImagenBack\": \"C\",\r\n          \"tipoCarta\":
+    0\r\n        }\r\n      },\r\n      {\r\n        \"conceptos\": [\r\n         
+    \"J.F Kennedy \",\r\n          \"Crisis de los Misiles \",\r\n          \"Corea
+    del Norte \"\r\n        ],\r\n        \"materia\": \"Guerra Fria\",\r\n       
+    \"Atributos_\": {\r\n          \"idImagen\": \"15_C_GF\",\r\n          \"idImagenBack\":
+    \"C\",\r\n          \"tipoCarta\": 0\r\n        }\r\n      },\r\n      {\r\n       
+    \"conceptos\": [\r\n          \"Vietcong\",\r\n          \"Fidel Castro\",\r\n         
+    \"Rep\xFAblica Federal Alemana \"\r\n        ],\r\n        \"materia\": \"Guerra
+    Fria\",\r\n        \"Atributos_\": {\r\n          \"idImagen\": \"16_C_GF\",\r\n         
+    \"idImagenBack\": \"C\",\r\n          \"tipoCarta\": 0\r\n        }\r\n     
+    },\r\n      {\r\n        \"conceptos\": [\r\n          \"Colonia \",\r\n         
+    \"O.L.P\",\r\n          \"Berl\xEDn \"\r\n        ],\r\n        \"materia\":
+    \"Guerra Fria\",\r\n        \"Atributos_\": {\r\n          \"idImagen\": \"17_C_GF\",\r\n         
+    \"idImagenBack\": \"C\",\r\n          \"tipoCarta\": 0\r\n        }\r\n     
+    },\r\n      {\r\n        \"conceptos\": [\r\n          \"Crisis Agr\xEDcola \",\r\n         
+    \"Rep\xFAblica Democr\xE1tica Alemana \",\r\n          \"Mija\xEDl Gorbachov
+    \"\r\n        ],\r\n        \"materia\": \"Guerra Fria\",\r\n        \"Atributos_\":
+    {\r\n          \"idImagen\": \"18_C_GF\",\r\n          \"idImagenBack\": \"C\",\r\n         
+    \"tipoCarta\": 0\r\n        }\r\n      },\r\n      {\r\n        \"conceptos\":
+    [\r\n          \"Conflicto Ideol\xF3gico \",\r\n          \"Mao Zedong\",\r\n         
+    \"Comecon \"\r\n        ],\r\n        \"materia\": \"Guerra Fria\",\r\n       
+    \"Atributos_\": {\r\n          \"idImagen\": \"19_C_GF\",\r\n          \"idImagenBack\":
+    \"C\",\r\n          \"tipoCarta\": 0\r\n        }\r\n      },\r\n      {\r\n       
+    \"conceptos\": [\r\n          \"Carrera Armamentista \",\r\n          \"Guant\xE1namo
+    \",\r\n          \"Cominform\"\r\n        ],\r\n        \"materia\": \"Guerra
+    Fria\",\r\n        \"Atributos_\": {\r\n          \"idImagen\": \"20_C_GF\",\r\n         
+    \"idImagenBack\": \"C\",\r\n          \"tipoCarta\": 0\r\n        }\r\n     
+    }\r\n    ],\r\n    \"Genetica\": [\r\n      {\r\n        \"conceptos\": [\r\n         
+    \"N\xFAcleo\",\r\n          \"Genotipo \",\r\n          \"Brazo Q\"\r\n       
+    ],\r\n        \"materia\": \"Genetica\",\r\n        \"Atributos_\": {\r\n         
+    \"idImagen\": \"1_C_ADN\",\r\n          \"idImagenBack\": \"C\",\r\n         
+    \"tipoCarta\": 0\r\n        }\r\n      },\r\n      {\r\n        \"conceptos\":
+    [\r\n          \"Bases P\xFAricas\",\r\n          \"Gen\xE9tica\",\r\n         
+    \"Cromosoma Teloc\xE9ntrico\"\r\n        ],\r\n        \"materia\": \"Genetica\",\r\n       
+    \"Atributos_\": {\r\n          \"idImagen\": \"2_C_ADN\",\r\n          \"idImagenBack\":
+    \"C\",\r\n          \"tipoCarta\": 0\r\n        }\r\n      },\r\n      {\r\n       
+    \"conceptos\": [\r\n          \"Nucleosoma\",\r\n          \"Tel\xF3mero\",\r\n         
+    \"Alelo\"\r\n        ],\r\n        \"materia\": \"Genetica\",\r\n        \"Atributos_\":
+    {\r\n          \"idImagen\": \"3_C_ADN\",\r\n          \"idImagenBack\": \"C\",\r\n         
+    \"tipoCarta\": 0\r\n        }\r\n      },\r\n      {\r\n        \"conceptos\":
+    [\r\n          \"Enlace Puente de Hidr\xF3gemo\",\r\n          \"Cromosoma Metac\xE9ntrico\",\r\n         
+    \"Crom\xE1tidas Hermanas\"\r\n        ],\r\n        \"materia\": \"Genetica\",\r\n       
+    \"Atributos_\": {\r\n          \"idImagen\": \"4_C_ADN\",\r\n          \"idImagenBack\":
+    \"C\",\r\n          \"tipoCarta\": 0\r\n        }\r\n      },\r\n      {\r\n       
+    \"conceptos\": [\r\n          \"Poros Nucleares \",\r\n          \"Grupo Fosfato\",\r\n         
+    \"Fotograf\xEDa 51\"\r\n        ],\r\n        \"materia\": \"Genetica\",\r\n       
+    \"Atributos_\": {\r\n          \"idImagen\": \"5_C_ADN\",\r\n          \"idImagenBack\":
+    \"C\",\r\n          \"tipoCarta\": 0\r\n        }\r\n      },\r\n      {\r\n       
+    \"conceptos\": [\r\n          \"Histonas\",\r\n          \"Diploide\",\r\n         
+    \"Watson y Crick\"\r\n        ],\r\n        \"materia\": \"Genetica\",\r\n       
+    \"Atributos_\": {\r\n          \"idImagen\": \"6_C_ADN\",\r\n          \"idImagenBack\":
+    \"C\",\r\n          \"tipoCarta\": 0\r\n        }\r\n      },\r\n      {\r\n       
+    \"conceptos\": [\r\n          \"Brazo P\",\r\n          \"Dotaci\xF3n Cromos\xF3mica
+    \",\r\n          \"Genes\"\r\n        ],\r\n        \"materia\": \"Genetica\",\r\n       
+    \"Atributos_\": {\r\n          \"idImagen\": \"7_C_ADN\",\r\n          \"idImagenBack\":
+    \"C\",\r\n          \"tipoCarta\": 0\r\n        }\r\n      },\r\n      {\r\n       
+    \"conceptos\": [\r\n          \"Cariotipo\",\r\n          \"Compactaci\xF3n del
+    ADN\",\r\n          \"C\xE9lula Procarionte\"\r\n        ],\r\n        \"materia\":
+    \"Genetica\",\r\n        \"Atributos_\": {\r\n          \"idImagen\": \"8_C_ADN\",\r\n         
+    \"idImagenBack\": \"C\",\r\n          \"tipoCarta\": 0\r\n        }\r\n     
+    },\r\n      {\r\n        \"conceptos\": [\r\n          \"Nucl\xE9olo\",\r\n         
+    \"Rosalind Franklin\",\r\n          \"Bases Pirim\xEDdicas\"\r\n        ],\r\n       
+    \"materia\": \"Genetica\",\r\n        \"Atributos_\": {\r\n          \"idImagen\":
+    \"9_C_ADN\",\r\n          \"idImagenBack\": \"C\",\r\n          \"tipoCarta\":
+    0\r\n        }\r\n      },\r\n      {\r\n        \"conceptos\": [\r\n         
+    \"Collar de Cuentas\",\r\n          \"Dogma Central de la Biolog\xEDa\",\r\n         
+    \"Desoxirribosa\"\r\n        ],\r\n        \"materia\": \"Genetica\",\r\n       
+    \"Atributos_\": {\r\n          \"idImagen\": \"10_C_ADN\",\r\n          \"idImagenBack\":
+    \"C\",\r\n          \"tipoCarta\": 0\r\n        }\r\n      },\r\n      {\r\n       
+    \"conceptos\": [\r\n          \"Doble H\xE9lice \",\r\n          \"Centr\xF3mero\",\r\n         
+    \"Nucleoplasma\"\r\n        ],\r\n        \"materia\": \"Genetica\",\r\n       
+    \"Atributos_\": {\r\n          \"idImagen\": \"11_C_ADN\",\r\n          \"idImagenBack\":
+    \"C\",\r\n          \"tipoCarta\": 0\r\n        }\r\n      },\r\n      {\r\n       
+    \"conceptos\": [\r\n          \"Haploide \",\r\n          \"Fenotipo\",\r\n         
+    \"Envoltura Nuclear\"\r\n        ],\r\n        \"materia\": \"Genetica\",\r\n       
+    \"Atributos_\": {\r\n          \"idImagen\": \"12_C_ADN\",\r\n          \"idImagenBack\":
+    \"C\",\r\n          \"tipoCarta\": 0\r\n        }\r\n      },\r\n      {\r\n       
+    \"conceptos\": [\r\n          \"Guanina\",\r\n          \"C\xE9lula\",\r\n         
+    \"Cromosoma\"\r\n        ],\r\n        \"materia\": \"Genetica\",\r\n       
+    \"Atributos_\": {\r\n          \"idImagen\": \"13_C_ADN\",\r\n          \"idImagenBack\":
+    \"C\",\r\n          \"tipoCarta\": 0\r\n        }\r\n      },\r\n      {\r\n       
+    \"conceptos\": [\r\n          \"Nucle\xF3tido\",\r\n          \"Cromosomas Sexuales
+    \",\r\n          \"Herencia\"\r\n        ],\r\n        \"materia\": \"Genetica\",\r\n       
+    \"Atributos_\": {\r\n          \"idImagen\": \"14_C_ADN\",\r\n          \"idImagenBack\":
+    \"C\",\r\n          \"tipoCarta\": 0\r\n        }\r\n      },\r\n      {\r\n       
+    \"conceptos\": [\r\n          \"Hebras Antiparalelas\",\r\n          \"Cromatina\",\r\n         
+    \"Amniocentesis\"\r\n        ],\r\n        \"materia\": \"Genetica\",\r\n       
+    \"Atributos_\": {\r\n          \"idImagen\": \"15_C_ADN\",\r\n          \"idImagenBack\":
+    \"C\",\r\n          \"tipoCarta\": 0\r\n        }\r\n      },\r\n      {\r\n       
+    \"conceptos\": [\r\n          \"Cromosoma Acroc\xE9ntrico \",\r\n          \"Base
+    Nitrogenada \",\r\n          \"Modelo Molecular\"\r\n        ],\r\n        \"materia\":
+    \"Genetica\",\r\n        \"Atributos_\": {\r\n          \"idImagen\": \"16_C_ADN\",\r\n         
+    \"idImagenBack\": \"C\",\r\n          \"tipoCarta\": 0\r\n        }\r\n     
+    },\r\n      {\r\n        \"conceptos\": [\r\n          \"S\xEDndrome de Down
+    \",\r\n          \"Nucleoide\",\r\n          \"Citocina\"\r\n        ],\r\n       
+    \"materia\": \"Genetica\",\r\n        \"Atributos_\": {\r\n          \"idImagen\":
+    \"17_C_ADN\",\r\n          \"idImagenBack\": \"C\",\r\n          \"tipoCarta\":
+    0\r\n        }\r\n      },\r\n      {\r\n        \"conceptos\": [\r\n         
+    \"Crom\xE1tida \",\r\n          \"ADN\",\r\n          \"Cromosomas Autos\xF3micos
+    \"\r\n        ],\r\n        \"materia\": \"Genetica\",\r\n        \"Atributos_\":
+    {\r\n          \"idImagen\": \"18_C_ADN\",\r\n          \"idImagenBack\": \"C\",\r\n         
+    \"tipoCarta\": 0\r\n        }\r\n      },\r\n      {\r\n        \"conceptos\":
+    [\r\n          \"Material Gen\xE9tico \",\r\n          \"Timina\",\r\n         
+    \"Cromosomas Hom\xF3logos\"\r\n        ],\r\n        \"materia\": \"Genetica\",\r\n       
+    \"Atributos_\": {\r\n          \"idImagen\": \"19_C_ADN\",\r\n          \"idImagenBack\":
+    \"C\",\r\n          \"tipoCarta\": 0\r\n        }\r\n      },\r\n      {\r\n       
+    \"conceptos\": [\r\n          \"Adenina \",\r\n          \"ARN\",\r\n         
+    \"Uracilo \"\r\n        ],\r\n        \"materia\": \"Genetica\",\r\n        \"Atributos_\":
+    {\r\n          \"idImagen\": \"20_C_ADN\",\r\n          \"idImagenBack\": \"C\",\r\n         
+    \"tipoCarta\": 0\r\n        }\r\n      }\r\n    ],\r\n    \"Genero Narrativo\":
+    [\r\n      {\r\n        \"conceptos\": [\r\n          \"\xC1ngeles\",\r\n         
+    \"Muerte\",\r\n          \"Edgar Allan Poe\"\r\n        ],\r\n        \"materia\":
+    \"Genero Narrativo\",\r\n        \"Atributos_\": {\r\n          \"idImagen\":
+    \"1_C_GN\",\r\n          \"idImagenBack\": \"C\",\r\n          \"tipoCarta\":
+    0\r\n        }\r\n      },\r\n      {\r\n        \"conceptos\": [\r\n         
+    \"Conocimiento\",\r\n          \"Filosof\xEDa\",\r\n          \"Napole\xF3n Bonaparte
+    \"\r\n        ],\r\n        \"materia\": \"Genero Narrativo\",\r\n        \"Atributos_\":
+    {\r\n          \"idImagen\": \"2_C_GN\",\r\n          \"idImagenBack\": \"C\",\r\n         
+    \"tipoCarta\": 0\r\n        }\r\n      },\r\n      {\r\n        \"conceptos\":
+    [\r\n          \"Romanticismo\",\r\n          \"Raz\xF3n\",\r\n          \"Benjam\xEDn
+    Subercaseaux\"\r\n        ],\r\n        \"materia\": \"Genero Narrativo\",\r\n       
+    \"Atributos_\": {\r\n          \"idImagen\": \"3_C_GN\",\r\n          \"idImagenBack\":
+    \"C\",\r\n          \"tipoCarta\": 0\r\n        }\r\n      },\r\n      {\r\n       
+    \"conceptos\": [\r\n          \"L\xFAgubre\",\r\n          \"Retrato de Dorian
+    Gray\",\r\n          \"Mary Shelley\"\r\n        ],\r\n        \"materia\": \"Genero
+    Narrativo\",\r\n        \"Atributos_\": {\r\n          \"idImagen\": \"4_C_GN\",\r\n         
+    \"idImagenBack\": \"C\",\r\n          \"tipoCarta\": 0\r\n        }\r\n     
+    },\r\n      {\r\n        \"conceptos\": [\r\n          \"Bosque\",\r\n         
+    \"Frankestein\",\r\n          \"Oscar Wilde\"\r\n        ],\r\n        \"materia\":
+    \"Genero Narrativo\",\r\n        \"Atributos_\": {\r\n          \"idImagen\":
+    \"5_C_GN\",\r\n          \"idImagenBack\": \"C\",\r\n          \"tipoCarta\":
+    0\r\n        }\r\n      },\r\n      {\r\n        \"conceptos\": [\r\n         
+    \"Belleza\",\r\n          \"Imaginaci\xF3n\",\r\n          \"Gustavo Adolfo B\xE9cquer\"\r\n       
+    ],\r\n        \"materia\": \"Genero Narrativo\",\r\n        \"Atributos_\": {\r\n         
+    \"idImagen\": \"6_C_GN\",\r\n          \"idImagenBack\": \"C\",\r\n         
+    \"tipoCarta\": 0\r\n        }\r\n      },\r\n      {\r\n        \"conceptos\":
+    [\r\n          \"Individualismo \",\r\n          \"I Revoluci\xF3n Industrial\",\r\n         
+    \"Walt Withman\"\r\n        ],\r\n        \"materia\": \"Genero Narrativo\",\r\n       
+    \"Atributos_\": {\r\n          \"idImagen\": \"7_C_GN\",\r\n          \"idImagenBack\":
+    \"C\",\r\n          \"tipoCarta\": 0\r\n        }\r\n      },\r\n      {\r\n       
+    \"conceptos\": [\r\n          \"Sentimientos\",\r\n          \"Melancol\xEDa\",\r\n         
+    \"Goethe\"\r\n        ],\r\n        \"materia\": \"Genero Narrativo\",\r\n       
+    \"Atributos_\": {\r\n          \"idImagen\": \"8_C_GN\",\r\n          \"idImagenBack\":
+    \"C\",\r\n          \"tipoCarta\": 0\r\n        }\r\n      },\r\n      {\r\n       
+    \"conceptos\": [\r\n          \"Dolor\",\r\n          \"Fantas\xEDa\",\r\n         
+    \"V\xEDctor Hugo\"\r\n        ],\r\n        \"materia\": \"Genero Narrativo\",\r\n       
+    \"Atributos_\": {\r\n          \"idImagen\": \"9_C_GN\",\r\n          \"idImagenBack\":
+    \"C\",\r\n          \"tipoCarta\": 0\r\n        }\r\n      },\r\n      {\r\n       
+    \"conceptos\": [\r\n          \"Ilustraci\xF3n \",\r\n          \"Expresi\xF3n
+    de la Interioridad\",\r\n          \"Pesimismo\"\r\n        ],\r\n        \"materia\":
+    \"Genero Narrativo\",\r\n        \"Atributos_\": {\r\n          \"idImagen\":
+    \"10_C_GN\",\r\n          \"idImagenBack\": \"C\",\r\n          \"tipoCarta\":
+    0\r\n        }\r\n      },\r\n      {\r\n        \"conceptos\": [\r\n         
+    \"Igualdad \",\r\n          \"Locus Amoneus\",\r\n          \"Juglar\"\r\n       
+    ],\r\n        \"materia\": \"Genero Narrativo\",\r\n        \"Atributos_\": {\r\n         
+    \"idImagen\": \"11_C_GN\",\r\n          \"idImagenBack\": \"C\",\r\n         
+    \"tipoCarta\": 0\r\n        }\r\n      },\r\n      {\r\n        \"conceptos\":
+    [\r\n          \"Carpe Diem\",\r\n          \"Rebeld\xEDa \",\r\n          \"Tiempo\"\r\n       
+    ],\r\n        \"materia\": \"Genero Narrativo\",\r\n        \"Atributos_\": {\r\n         
+    \"idImagen\": \"12_C_GN\",\r\n          \"idImagenBack\": \"C\",\r\n         
+    \"tipoCarta\": 0\r\n        }\r\n      },\r\n      {\r\n        \"conceptos\":
+    [\r\n          \"Protagosnista \",\r\n          \"Ambiente\",\r\n          \"Tempus
+    Fugit\"\r\n        ],\r\n        \"materia\": \"Genero Narrativo\",\r\n       
+    \"Atributos_\": {\r\n          \"idImagen\": \"13_C_GN\",\r\n          \"idImagenBack\":
+    \"C\",\r\n          \"tipoCarta\": 0\r\n        }\r\n      },\r\n      {\r\n       
+    \"conceptos\": [\r\n          \"Monstruo\",\r\n          \"Racconto\",\r\n         
+    \"Lord Byron\"\r\n        ],\r\n        \"materia\": \"Genero Narrativo\",\r\n       
+    \"Atributos_\": {\r\n          \"idImagen\": \"14_C_GN\",\r\n          \"idImagenBack\":
+    \"C\",\r\n          \"tipoCarta\": 0\r\n        }\r\n      },\r\n      {\r\n       
+    \"conceptos\": [\r\n          \"H\xE9roe\",\r\n          \"II Revoluci\xF3n Industrial\",\r\n         
+    \"Clases Sociales\"\r\n        ],\r\n        \"materia\": \"Genero Narrativo\",\r\n       
+    \"Atributos_\": {\r\n          \"idImagen\": \"15_C_GN\",\r\n          \"idImagenBack\":
+    \"C\",\r\n          \"tipoCarta\": 0\r\n        }\r\n      },\r\n      {\r\n       
+    \"conceptos\": [\r\n          \"Emisor\",\r\n          \"Miedo\",\r\n         
+    \"Premonici\xF3n \"\r\n        ],\r\n        \"materia\": \"Genero Narrativo\",\r\n       
+    \"Atributos_\": {\r\n          \"idImagen\": \"16_C_GN\",\r\n          \"idImagenBack\":
+    \"C\",\r\n          \"tipoCarta\": 0\r\n        }\r\n      },\r\n      {\r\n       
+    \"conceptos\": [\r\n          \"Flash Back\",\r\n          \"Mensaje\",\r\n         
+    \"Misterio\"\r\n        ],\r\n        \"materia\": \"Genero Narrativo\",\r\n       
+    \"Atributos_\": {\r\n          \"idImagen\": \"17_C_GN\",\r\n          \"idImagenBack\":
+    \"C\",\r\n          \"tipoCarta\": 0\r\n        }\r\n      },\r\n      {\r\n       
+    \"conceptos\": [\r\n          \"Amor\",\r\n          \"El Cuervo\",\r\n         
+    \"Receptor\"\r\n        ],\r\n        \"materia\": \"Genero Narrativo\",\r\n       
+    \"Atributos_\": {\r\n          \"idImagen\": \"18_C_GN\",\r\n          \"idImagenBack\":
+    \"C\",\r\n          \"tipoCarta\": 0\r\n        }\r\n      },\r\n      {\r\n       
+    \"conceptos\": [\r\n          \"Grotesco\",\r\n          \"Sublime\",\r\n         
+    \"Feo\"\r\n        ],\r\n        \"materia\": \"Genero Narrativo\",\r\n       
+    \"Atributos_\": {\r\n          \"idImagen\": \"19_C_GN\",\r\n          \"idImagenBack\":
+    \"C\",\r\n          \"tipoCarta\": 0\r\n        }\r\n      },\r\n      {\r\n       
+    \"conceptos\": [\r\n          \"Libertad\",\r\n          \"Gestos\",\r\n         
+    \"Walter Scott\"\r\n        ],\r\n        \"materia\": \"Genero Narrativo\",\r\n       
+    \"Atributos_\": {\r\n          \"idImagen\": \"20_C_GN\",\r\n          \"idImagenBack\":
+    \"C\",\r\n          \"tipoCarta\": 0\r\n        }\r\n      }\r\n    ],\r\n   
+    \"Pueblos Precolombinos\": [\r\n      {\r\n        \"conceptos\": [\r\n         
+    \"Pueblo Huilliche\",\r\n          \"Sau Sau\",\r\n          \"Alpacas\"\r\n       
+    ],\r\n        \"materia\": \"Pueblos Precolombinos\",\r\n        \"Atributos_\":
+    {\r\n          \"idImagen\": \"1_C_PP\",\r\n          \"idImagenBack\": \"C\",\r\n         
+    \"tipoCarta\": 0\r\n        }\r\n      },\r\n      {\r\n        \"conceptos\":
+    [\r\n          \"Pueblo Atacame\xF1o\",\r\n          \"Zona Sur\",\r\n         
+    \"Trasquilar\"\r\n        ],\r\n        \"materia\": \"Pueblos Precolombinos\",\r\n       
+    \"Atributos_\": {\r\n          \"idImagen\": \"2_C_PP\",\r\n          \"idImagenBack\":
+    \"C\",\r\n          \"tipoCarta\": 0\r\n        }\r\n      },\r\n      {\r\n       
+    \"conceptos\": [\r\n          \"Pueblo Colla\",\r\n          \"Arado de Pie\",\r\n         
+    \"Machit\xFAn\"\r\n        ],\r\n        \"materia\": \"Pueblos Precolombinos\",\r\n       
+    \"Atributos_\": {\r\n          \"idImagen\": \"3_C_PP\",\r\n          \"idImagenBack\":
+    \"C\",\r\n          \"tipoCarta\": 0\r\n        }\r\n      },\r\n      {\r\n       
+    \"conceptos\": [\r\n          \"Pueblo Aymara\",\r\n          \"Zona Austral\",\r\n         
+    \"Artesan\xEDa en Cobre\"\r\n        ],\r\n        \"materia\": \"Pueblos Precolombinos\",\r\n       
+    \"Atributos_\": {\r\n          \"idImagen\": \"4_C_PP\",\r\n          \"idImagenBack\":
+    \"C\",\r\n          \"tipoCarta\": 0\r\n        }\r\n      },\r\n      {\r\n       
+    \"conceptos\": [\r\n          \"Pueblo Chango\",\r\n          \"Zona Centro\",\r\n         
+    \"Alfarer\xEDa\"\r\n        ],\r\n        \"materia\": \"Pueblos Precolombinos\",\r\n       
+    \"Atributos_\": {\r\n          \"idImagen\": \"5_C_PP\",\r\n          \"idImagenBack\":
+    \"C\",\r\n          \"tipoCarta\": 0\r\n        }\r\n      },\r\n      {\r\n       
+    \"conceptos\": [\r\n          \"Pueblo Diaguita\",\r\n          \"Trapelacucha\",\r\n         
+    \"Guillat\xFAn\"\r\n        ],\r\n        \"materia\": \"Pueblos Precolombinos\",\r\n       
+    \"Atributos_\": {\r\n          \"idImagen\": \"6_C_PP\",\r\n          \"idImagenBack\":
+    \"C\",\r\n          \"tipoCarta\": 0\r\n        }\r\n      },\r\n      {\r\n       
+    \"conceptos\": [\r\n          \"Pueblo Mapuche\",\r\n          \"Zona Norte \",\r\n         
+    \"Papa\"\r\n        ],\r\n        \"materia\": \"Pueblos Precolombinos\",\r\n       
+    \"Atributos_\": {\r\n          \"idImagen\": \"7_C_PP\",\r\n          \"idImagenBack\":
+    \"C\",\r\n          \"tipoCarta\": 0\r\n        }\r\n      },\r\n      {\r\n       
+    \"conceptos\": [\r\n          \"Pueblo Rapa Nui\",\r\n          \"Jarro Pato\",\r\n         
+    \"Lobo Marino\"\r\n        ],\r\n        \"materia\": \"Pueblos Precolombinos\",\r\n       
+    \"Atributos_\": {\r\n          \"idImagen\": \"8_C_PP\",\r\n          \"idImagenBack\":
+    \"C\",\r\n          \"tipoCarta\": 0\r\n        }\r\n      },\r\n      {\r\n       
+    \"conceptos\": [\r\n          \"Pueblo A\xF3nikenk o Tehuerlches\",\r\n         
+    \"Araucaria\",\r\n          \"Llama\"\r\n        ],\r\n        \"materia\": \"Pueblos
+    Precolombinos\",\r\n        \"Atributos_\": {\r\n          \"idImagen\": \"9_C_PP\",\r\n         
+    \"idImagenBack\": \"C\",\r\n          \"tipoCarta\": 0\r\n        }\r\n     
+    },\r\n      {\r\n        \"conceptos\": [\r\n          \"Pueblo Chono\",\r\n         
+    \"Ma\xEDz\",\r\n          \"Tejido en Lana\"\r\n        ],\r\n        \"materia\":
+    \"Pueblos Precolombinos\",\r\n        \"Atributos_\": {\r\n          \"idImagen\":
+    \"10_C_PP\",\r\n          \"idImagenBack\": \"C\",\r\n          \"tipoCarta\":
+    0\r\n        }\r\n      },\r\n      {\r\n        \"conceptos\": [\r\n         
+    \"Pueblo Kaw\xE9squar o Alacalufes\",\r\n          \"Jarro Zapato\",\r\n         
+    \"Sedentarios\"\r\n        ],\r\n        \"materia\": \"Pueblos Precolombinos\",\r\n       
+    \"Atributos_\": {\r\n          \"idImagen\": \"11_C_PP\",\r\n          \"idImagenBack\":
+    \"C\",\r\n          \"tipoCarta\": 0\r\n        }\r\n      },\r\n      {\r\n       
+    \"conceptos\": [\r\n          \"Pueblo Yag\xE1n\",\r\n          \"Mapudung\xFAn\",\r\n         
+    \"Uta\"\r\n        ],\r\n        \"materia\": \"Pueblos Precolombinos\",\r\n       
+    \"Atributos_\": {\r\n          \"idImagen\": \"12_C_PP\",\r\n          \"idImagenBack\":
+    \"C\",\r\n          \"tipoCarta\": 0\r\n        }\r\n      },\r\n      {\r\n       
+    \"conceptos\": [\r\n          \"Cultivo en Terrazas\",\r\n          \"Balsas
+    de Lobo Marino\",\r\n          \"Cester\xEDa\"\r\n        ],\r\n        \"materia\":
+    \"Pueblos Precolombinos\",\r\n        \"Atributos_\": {\r\n          \"idImagen\":
+    \"13_C_PP\",\r\n          \"idImagenBack\": \"C\",\r\n          \"tipoCarta\":
+    0\r\n        }\r\n      },\r\n      {\r\n        \"conceptos\": [\r\n         
+    \"Telar o Witxal\",\r\n          \"Agricultura\",\r\n          \"Zampo\xF1a\"\r\n       
+    ],\r\n        \"materia\": \"Pueblos Precolombinos\",\r\n        \"Atributos_\":
+    {\r\n          \"idImagen\": \"14_C_PP\",\r\n          \"idImagenBack\": \"C\",\r\n         
+    \"tipoCarta\": 0\r\n        }\r\n      },\r\n      {\r\n        \"conceptos\":
+    [\r\n          \"Cosmovisi\xF3n\",\r\n          \"Ganader\xEDa\",\r\n         
+    \"Tomate\"\r\n        ],\r\n        \"materia\": \"Pueblos Precolombinos\",\r\n       
+    \"Atributos_\": {\r\n          \"idImagen\": \"15_C_PP\",\r\n          \"idImagenBack\":
+    \"C\",\r\n          \"tipoCarta\": 0\r\n        }\r\n      },\r\n      {\r\n       
+    \"conceptos\": [\r\n          \"Machi\",\r\n          \"Pesca\",\r\n         
+    \"Recolecci\xF3n\"\r\n        ],\r\n        \"materia\": \"Pueblos Precolombinos\",\r\n       
+    \"Atributos_\": {\r\n          \"idImagen\": \"16_C_PP\",\r\n          \"idImagenBack\":
+    \"C\",\r\n          \"tipoCarta\": 0\r\n        }\r\n      },\r\n      {\r\n       
+    \"conceptos\": [\r\n          \"Wi\xF1ol Tripantu\",\r\n          \"Pintura Rupestre\",\r\n         
+    \"Caza\"\r\n        ],\r\n        \"materia\": \"Pueblos Precolombinos\",\r\n       
+    \"Atributos_\": {\r\n          \"idImagen\": \"17_C_PP\",\r\n          \"idImagenBack\":
+    \"C\",\r\n          \"tipoCarta\": 0\r\n        }\r\n      },\r\n      {\r\n       
+    \"conceptos\": [\r\n          \"Kultr\xFAn\",\r\n          \"Dalcas\",\r\n         
+    \"Purr\xFAn\"\r\n        ],\r\n        \"materia\": \"Pueblos Precolombinos\",\r\n       
+    \"Atributos_\": {\r\n          \"idImagen\": \"18_C_PP\",\r\n          \"idImagenBack\":
+    \"C\",\r\n          \"tipoCarta\": 0\r\n        }\r\n      },\r\n      {\r\n       
+    \"conceptos\": [\r\n          \"Ruka\",\r\n          \"Phawa\",\r\n         
+    \"N\xF3madas\"\r\n        ],\r\n        \"materia\": \"Pueblos Precolombinos\",\r\n       
+    \"Atributos_\": {\r\n          \"idImagen\": \"19_C_PP\",\r\n          \"idImagenBack\":
+    \"C\",\r\n          \"tipoCarta\": 0\r\n        }\r\n      },\r\n      {\r\n       
+    \"conceptos\": [\r\n          \"Pachamama\",\r\n          \"Tata Inti\",\r\n         
+    \"Canelo\"\r\n        ],\r\n        \"materia\": \"Pueblos Precolombinos\",\r\n       
+    \"Atributos_\": {\r\n          \"idImagen\": \"20_C_PP\",\r\n          \"idImagenBack\":
+    \"C\",\r\n          \"tipoCarta\": 0\r\n        }\r\n      }\r\n    ],\r\n   
+    \"Aventura\": [\r\n      {\r\n        \"conceptos\": [\r\n          \"Castillo\",\r\n         
+    \"Barco pirata\",\r\n          \"Robot (Bailando)\"\r\n        ],\r\n       
+    \"materia\": \"Aventura\",\r\n        \"Atributos_\": {\r\n          \"idImagen\":
+    \"1_C_AV\",\r\n          \"idImagenBack\": \"C\",\r\n          \"tipoCarta\":
+    0\r\n        }\r\n      },\r\n      {\r\n        \"conceptos\": [\r\n         
+    \"Valle\",\r\n          \"Escudo \",\r\n          \"Dinosaurio (distra\xEDdo)
+    \"\r\n        ],\r\n        \"materia\": \"Aventura\",\r\n        \"Atributos_\":
+    {\r\n          \"idImagen\": \"2_C_AV\",\r\n          \"idImagenBack\": \"C\",\r\n         
+    \"tipoCarta\": 0\r\n        }\r\n      },\r\n      {\r\n        \"conceptos\":
+    [\r\n          \"Bosque \",\r\n          \"Cofre \",\r\n          \"Pirata (enojado)\"\r\n       
+    ],\r\n        \"materia\": \"Aventura\",\r\n        \"Atributos_\": {\r\n         
+    \"idImagen\": \"3_C_AV\",\r\n          \"idImagenBack\": \"C\",\r\n         
+    \"tipoCarta\": 0\r\n        }\r\n      },\r\n      {\r\n        \"conceptos\":
+    [\r\n          \"Mar\",\r\n          \"Mapa \",\r\n          \"Rey y Reina (neutros)\"\r\n       
+    ],\r\n        \"materia\": \"Aventura\",\r\n        \"Atributos_\": {\r\n         
+    \"idImagen\": \"4_C_AV\",\r\n          \"idImagenBack\": \"C\",\r\n         
+    \"tipoCarta\": 0\r\n        }\r\n      },\r\n      {\r\n        \"conceptos\":
+    [\r\n          \"Iglesia \",\r\n          \"Linterna \",\r\n          \"Indigena
+    (amigable)\"\r\n        ],\r\n        \"materia\": \"Aventura\",\r\n        \"Atributos_\":
+    {\r\n          \"idImagen\": \"5_C_AV\",\r\n          \"idImagenBack\": \"C\",\r\n         
+    \"tipoCarta\": 0\r\n        }\r\n      },\r\n      {\r\n        \"conceptos\":
+    [\r\n          \"Circo \",\r\n          \"Tel\xE9fono \",\r\n          \"Caballero
+    (valiente)\"\r\n        ],\r\n        \"materia\": \"Aventura\",\r\n        \"Atributos_\":
+    {\r\n          \"idImagen\": \"6_C_AV\",\r\n          \"idImagenBack\": \"C\",\r\n         
+    \"tipoCarta\": 0\r\n        }\r\n      },\r\n      {\r\n        \"conceptos\":
+    [\r\n          \"Multicancha\",\r\n          \"Cohete\",\r\n          \"Extraterrestre
+    (observando)\"\r\n        ],\r\n        \"materia\": \"Aventura\",\r\n       
+    \"Atributos_\": {\r\n          \"idImagen\": \"7_C_AV\",\r\n          \"idImagenBack\":
+    \"C\",\r\n          \"tipoCarta\": 0\r\n        }\r\n      },\r\n      {\r\n       
+    \"conceptos\": [\r\n          \"Granja \",\r\n          \"Auto \",\r\n         
+    \"Vampiro (hambriento)\"\r\n        ],\r\n        \"materia\": \"Aventura\",\r\n       
+    \"Atributos_\": {\r\n          \"idImagen\": \"8_C_AV\",\r\n          \"idImagenBack\":
+    \"C\",\r\n          \"tipoCarta\": 0\r\n        }\r\n      },\r\n      {\r\n       
+    \"conceptos\": [\r\n          \"Zool\xF3gico\",\r\n          \"Espada \",\r\n         
+    \"Mago (concentrado)\"\r\n        ],\r\n        \"materia\": \"Aventura\",\r\n       
+    \"Atributos_\": {\r\n          \"idImagen\": \"9_C_AV\",\r\n          \"idImagenBack\":
+    \"C\",\r\n          \"tipoCarta\": 0\r\n        }\r\n      },\r\n      {\r\n       
+    \"conceptos\": [\r\n          \"Parque de Diversi\xF3n\",\r\n          \"Bicicleta
+    \",\r\n          \"Ninja (atacando)\"\r\n        ],\r\n        \"materia\": \"Aventura\",\r\n       
+    \"Atributos_\": {\r\n          \"idImagen\": \"10_C_AV\",\r\n          \"idImagenBack\":
+    \"C\",\r\n          \"tipoCarta\": 0\r\n        }\r\n      },\r\n      {\r\n       
+    \"conceptos\": [\r\n          \"Desierto \",\r\n          \"Alfombra M\xE1gica
+    \",\r\n          \"Duende (escondiendo cosas)\"\r\n        ],\r\n        \"materia\":
+    \"Aventura\",\r\n        \"Atributos_\": {\r\n          \"idImagen\": \"11_C_AV\",\r\n         
+    \"idImagenBack\": \"C\",\r\n          \"tipoCarta\": 0\r\n        }\r\n     
+    },\r\n      {\r\n        \"conceptos\": [\r\n          \"Concierto \",\r\n         
+    \"Varita M\xE1gica \",\r\n          \"Superh\xE9roe (debilitado)\"\r\n       
+    ],\r\n        \"materia\": \"Aventura\",\r\n        \"Atributos_\": {\r\n         
+    \"idImagen\": \"12_C_AV\",\r\n          \"idImagenBack\": \"C\",\r\n         
+    \"tipoCarta\": 0\r\n        }\r\n      },\r\n      {\r\n        \"conceptos\":
+    [\r\n          \"Espacio \",\r\n          \"C\xE1mara Fotogr\xE1fica\",\r\n         
+    \"Sirena (enamorada)\"\r\n        ],\r\n        \"materia\": \"Aventura\",\r\n       
+    \"Atributos_\": {\r\n          \"idImagen\": \"13_C_AV\",\r\n          \"idImagenBack\":
+    \"C\",\r\n          \"tipoCarta\": 0\r\n        }\r\n      },\r\n      {\r\n       
+    \"conceptos\": [\r\n          \"Piscina \",\r\n          \"Botiqu\xEDn \",\r\n         
+    \"Astronauta (flotando)\"\r\n        ],\r\n        \"materia\": \"Aventura\",\r\n       
+    \"Atributos_\": {\r\n          \"idImagen\": \"14_C_AV\",\r\n          \"idImagenBack\":
+    \"C\",\r\n          \"tipoCarta\": 0\r\n        }\r\n      },\r\n      {\r\n       
+    \"conceptos\": [\r\n          \"Museo \",\r\n          \"Sombrero de Mago \",\r\n         
+    \"Gigante (destruyendo)\"\r\n        ],\r\n        \"materia\": \"Aventura\",\r\n       
+    \"Atributos_\": {\r\n          \"idImagen\": \"15_C_AV\",\r\n          \"idImagenBack\":
+    \"C\",\r\n          \"tipoCarta\": 0\r\n        }\r\n      },\r\n      {\r\n       
+    \"conceptos\": [\r\n          \"Acuario \",\r\n          \"Mochila \",\r\n         
+    \"Ciclope (cantando)\"\r\n        ],\r\n        \"materia\": \"Aventura\",\r\n       
+    \"Atributos_\": {\r\n          \"idImagen\": \"16_C_AV\",\r\n          \"idImagenBack\":
+    \"C\",\r\n          \"tipoCarta\": 0\r\n        }\r\n      },\r\n      {\r\n       
+    \"conceptos\": [\r\n          \"Monta\xF1a \",\r\n          \"Carpa \",\r\n         
+    \"Gargola (feliz)\"\r\n        ],\r\n        \"materia\": \"Aventura\",\r\n       
+    \"Atributos_\": {\r\n          \"idImagen\": \"17_C_AV\",\r\n          \"idImagenBack\":
+    \"C\",\r\n          \"tipoCarta\": 0\r\n        }\r\n      },\r\n      {\r\n       
+    \"conceptos\": [\r\n          \"Isla \",\r\n          \"Pala \",\r\n         
+    \"Topo (verguenza y al hoyo).\"\r\n        ],\r\n        \"materia\": \"Aventura\",\r\n       
+    \"Atributos_\": {\r\n          \"idImagen\": \"18_C_AV\",\r\n          \"idImagenBack\":
+    \"C\",\r\n          \"tipoCarta\": 0\r\n        }\r\n      },\r\n      {\r\n       
+    \"conceptos\": [\r\n          \"Volc\xE1n \",\r\n          \"Comida \",\r\n         
+    \"Unicornio (cari\xF1oso)\"\r\n        ],\r\n        \"materia\": \"Aventura\",\r\n       
+    \"Atributos_\": {\r\n          \"idImagen\": \"19_C_AV\",\r\n          \"idImagenBack\":
+    \"C\",\r\n          \"tipoCarta\": 0\r\n        }\r\n      },\r\n      {\r\n       
+    \"conceptos\": [\r\n          \"Casa \",\r\n          \"Avi\xF3n \",\r\n         
+    \"Drag\xF3n (triste)\"\r\n        ],\r\n        \"materia\": \"Aventura\",\r\n       
+    \"Atributos_\": {\r\n          \"idImagen\": \"20_C_AV\",\r\n          \"idImagenBack\":
+    \"C\",\r\n          \"tipoCarta\": 0\r\n        }\r\n      }\r\n    ],\r\n   
+    \"Genero no Literario\": [\r\n      {\r\n        \"conceptos\": [\r\n         
+    \"CARTA\",\r\n          \"OPINI\xD3N\",\r\n          \"TEXTOS CIENT\xCDFICOS\"\r\n       
+    ],\r\n        \"materia\": \"Genero no Literario\",\r\n        \"Atributos_\":
+    {\r\n          \"idImagen\": \"1_C_GL\",\r\n          \"idImagenBack\": \"C\",\r\n         
+    \"tipoCarta\": 0\r\n        }\r\n      },\r\n      {\r\n        \"conceptos\":
+    [\r\n          \"ARGUMENTO\",\r\n          \"TEXTOS PERIOD\xCDSTICOS\",\r\n         
+    \"DEBATE\"\r\n        ],\r\n        \"materia\": \"Genero no Literario\",\r\n       
+    \"Atributos_\": {\r\n          \"idImagen\": \"2_C_GL\",\r\n          \"idImagenBack\":
+    \"C\",\r\n          \"tipoCarta\": 0\r\n        }\r\n      },\r\n      {\r\n       
+    \"conceptos\": [\r\n          \"NOTICIA\",\r\n          \"RECETA\",\r\n         
+    \"PUBLICIDAD\"\r\n        ],\r\n        \"materia\": \"Genero no Literario\",\r\n       
+    \"Atributos_\": {\r\n          \"idImagen\": \"3_C_GL\",\r\n          \"idImagenBack\":
+    \"C\",\r\n          \"tipoCarta\": 0\r\n        }\r\n      },\r\n      {\r\n       
+    \"conceptos\": [\r\n          \"HECHOS\",\r\n          \"AFICHE\",\r\n         
+    \"VOCABULARIO\"\r\n        ],\r\n        \"materia\": \"Genero no Literario\",\r\n       
+    \"Atributos_\": {\r\n          \"idImagen\": \"4_C_GL\",\r\n          \"idImagenBack\":
+    \"C\",\r\n          \"tipoCarta\": 0\r\n        }\r\n      },\r\n      {\r\n       
+    \"conceptos\": [\r\n          \"OBJETIVIDAD\",\r\n          \"EMISOR\",\r\n         
+    \"TIEMPO\"\r\n        ],\r\n        \"materia\": \"Genero no Literario\",\r\n       
+    \"Atributos_\": {\r\n          \"idImagen\": \"5_C_GL\",\r\n          \"idImagenBack\":
+    \"C\",\r\n          \"tipoCarta\": 0\r\n        }\r\n      },\r\n      {\r\n       
+    \"conceptos\": [\r\n          \"RECEPTOR\",\r\n          \"PERI\xD3DICO\",\r\n         
+    \"MEDIOS MASIVOS DE COMUNICACI\xD3N\"\r\n        ],\r\n        \"materia\": \"Genero
+    no Literario\",\r\n        \"Atributos_\": {\r\n          \"idImagen\": \"6_C_GL\",\r\n         
+    \"idImagenBack\": \"C\",\r\n          \"tipoCarta\": 0\r\n        }\r\n     
+    },\r\n      {\r\n        \"conceptos\": [\r\n          \"LENGUAJE DENOTATIVO\",\r\n         
+    \"CANAL\",\r\n          \"PROPAGANDA\"\r\n        ],\r\n        \"materia\":
+    \"Genero no Literario\",\r\n        \"Atributos_\": {\r\n          \"idImagen\":
+    \"7_C_GL\",\r\n          \"idImagenBack\": \"C\",\r\n          \"tipoCarta\":
+    0\r\n        }\r\n      },\r\n      {\r\n        \"conceptos\": [\r\n         
+    \"BIOGRAF\xCDA\",\r\n          \"ENTREVISTA\",\r\n          \"MENSAJE\"\r\n       
+    ],\r\n        \"materia\": \"Genero no Literario\",\r\n        \"Atributos_\":
+    {\r\n          \"idImagen\": \"8_C_GL\",\r\n          \"idImagenBack\": \"C\",\r\n         
+    \"tipoCarta\": 0\r\n        }\r\n      },\r\n      {\r\n        \"conceptos\":
+    [\r\n          \"REALIDAD\",\r\n          \"LENGUAJE CONNOTATIVO\",\r\n         
+    \"DIGITAL\"\r\n        ],\r\n        \"materia\": \"Genero no Literario\",\r\n       
+    \"Atributos_\": {\r\n          \"idImagen\": \"9_C_GL\",\r\n          \"idImagenBack\":
+    \"C\",\r\n          \"tipoCarta\": 0\r\n        }\r\n      },\r\n      {\r\n       
+    \"conceptos\": [\r\n          \"SUBJETIVIDAD\",\r\n          \"FANTAS\xCDA\",\r\n         
+    \"FUNCI\xD3N APELATIVA\"\r\n        ],\r\n        \"materia\": \"Genero no Literario\",\r\n       
+    \"Atributos_\": {\r\n          \"idImagen\": \"10_C_GL\",\r\n          \"idImagenBack\":
+    \"C\",\r\n          \"tipoCarta\": 0\r\n        }\r\n      },\r\n      {\r\n       
+    \"conceptos\": [\r\n          \"TEXTO NORMATIVO\",\r\n          \"MODERADOR\",\r\n         
+    \"T\xD3PICO\"\r\n        ],\r\n        \"materia\": \"Genero no Literario\",\r\n       
+    \"Atributos_\": {\r\n          \"idImagen\": \"11_C_GL\",\r\n          \"idImagenBack\":
+    \"C\",\r\n          \"tipoCarta\": 0\r\n        }\r\n      },\r\n      {\r\n       
+    \"conceptos\": [\r\n          \"TEMA\",\r\n          \"C\xD3DIGO\",\r\n         
+    \"MANUAL DE INSTRUCCI\xD3N\"\r\n        ],\r\n        \"materia\": \"Genero no
+    Literario\",\r\n        \"Atributos_\": {\r\n          \"idImagen\": \"12_C_GL\",\r\n         
+    \"idImagenBack\": \"C\",\r\n          \"tipoCarta\": 0\r\n        }\r\n     
+    },\r\n      {\r\n        \"conceptos\": [\r\n          \"CONSTITUCI\xD3N\",\r\n         
+    \"OPONENTE\",\r\n          \"ACTUALIDAD\"\r\n        ],\r\n        \"materia\":
+    \"Genero no Literario\",\r\n        \"Atributos_\": {\r\n          \"idImagen\":
+    \"13_C_GL\",\r\n          \"idImagenBack\": \"C\",\r\n          \"tipoCarta\":
+    0\r\n        }\r\n      },\r\n      {\r\n        \"conceptos\": [\r\n         
+    \"FUNCI\xD3N REFERENCIAL\",\r\n          \"LENGUAJE VERBAL\",\r\n          \"P\xDABLICO\"\r\n       
+    ],\r\n        \"materia\": \"Genero no Literario\",\r\n        \"Atributos_\":
+    {\r\n          \"idImagen\": \"14_C_GL\",\r\n          \"idImagenBack\": \"C\",\r\n         
+    \"tipoCarta\": 0\r\n        }\r\n      },\r\n      {\r\n        \"conceptos\":
+    [\r\n          \"REDACCI\xD3N\",\r\n          \"LENGUAJE NO VERBAL\",\r\n         
+    \"INTRODUCCI\xD3N\"\r\n        ],\r\n        \"materia\": \"Genero no Literario\",\r\n       
+    \"Atributos_\": {\r\n          \"idImagen\": \"15_C_GL\",\r\n          \"idImagenBack\":
+    \"C\",\r\n          \"tipoCarta\": 0\r\n        }\r\n      },\r\n      {\r\n       
+    \"conceptos\": [\r\n          \"DESARROLLO\",\r\n          \"LENGUAJE PARAVERBAL\",\r\n         
+    \"SOCIEDAD\"\r\n        ],\r\n        \"materia\": \"Genero no Literario\",\r\n       
+    \"Atributos_\": {\r\n          \"idImagen\": \"16_C_GL\",\r\n          \"idImagenBack\":
+    \"C\",\r\n          \"tipoCarta\": 0\r\n        }\r\n      },\r\n      {\r\n       
+    \"conceptos\": [\r\n          \"CIENCIA\",\r\n          \"RESUMEN\",\r\n         
+    \"EXPOSICI\xD3N\"\r\n        ],\r\n        \"materia\": \"Genero no Literario\",\r\n       
+    \"Atributos_\": {\r\n          \"idImagen\": \"17_C_GL\",\r\n          \"idImagenBack\":
+    \"C\",\r\n          \"tipoCarta\": 0\r\n        }\r\n      },\r\n      {\r\n       
+    \"conceptos\": [\r\n          \"ARTE\",\r\n          \"CONCLUSI\xD3N\",\r\n         
+    \"CR\xCDTICA\"\r\n        ],\r\n        \"materia\": \"Genero no Literario\",\r\n       
+    \"Atributos_\": {\r\n          \"idImagen\": \"18_C_GL\",\r\n          \"idImagenBack\":
+    \"C\",\r\n          \"tipoCarta\": 0\r\n        }\r\n      },\r\n      {\r\n       
+    \"conceptos\": [\r\n          \"AUDIOVISUAL\",\r\n          \"AUDIOVISUAL\",\r\n         
+    \"DEPORTE\"\r\n        ],\r\n        \"materia\": \"Genero no Literario\",\r\n       
+    \"Atributos_\": {\r\n          \"idImagen\": \"19_C_GL\",\r\n          \"idImagenBack\":
+    \"C\",\r\n          \"tipoCarta\": 0\r\n        }\r\n      },\r\n      {\r\n       
+    \"conceptos\": [\r\n          \"FUNCI\xD3N EMOTIVA\",\r\n          \"RADIOF\xD3NICO\",\r\n         
+    \"IMPRESO\"\r\n        ],\r\n        \"materia\": \"Genero no Literario\",\r\n       
+    \"Atributos_\": {\r\n          \"idImagen\": \"20_C_GL\",\r\n          \"idImagenBack\":
+    \"C\",\r\n          \"tipoCarta\": 0\r\n        }\r\n      }\r\n    ]\r\n  },\r\n 
+    \"Eventos\": {\r\n    \"Tiempo\": [\r\n      {\r\n        \"descripcion\": \"Ganas
+    30 segundos solo en las exposiciones de puentes.\",\r\n        \"tipoEvento\":
+    0,\r\n        \"Atributos_\": {\r\n          \"idImagen\": \"E_TI_F\",\r\n         
+    \"idImagenBack\": \"E_TI_B\",\r\n          \"tipoCarta\": 1\r\n        }\r\n     
+    },\r\n      {\r\n        \"descripcion\": \"Aumenta en 10 segundos todas tus
+    exposiciones.\",\r\n        \"tipoEvento\": 0,\r\n        \"Atributos_\": {\r\n         
+    \"idImagen\": \"E_TI_F\",\r\n          \"idImagenBack\": \"E_TI_B\",\r\n         
+    \"tipoCarta\": 1\r\n        }\r\n      },\r\n      {\r\n        \"descripcion\":
+    \"Todos los jugadores pierden 10 segundos de exposici\xF3n por cada jugador en
+    la partida.\",\r\n        \"tipoEvento\": 0,\r\n        \"Atributos_\": {\r\n         
+    \"idImagen\": \"E_TI_F\",\r\n          \"idImagenBack\": \"E_TI_B\",\r\n         
+    \"tipoCarta\": 1\r\n        }\r\n      },\r\n      {\r\n        \"descripcion\":
+    \"Tu tiempo de puentes y conceptos se reduce a 30 segundos.\",\r\n        \"tipoEvento\":
+    0,\r\n        \"Atributos_\": {\r\n          \"idImagen\": \"E_TI_F\",\r\n         
+    \"idImagenBack\": \"E_TI_B\",\r\n          \"tipoCarta\": 1\r\n        }\r\n     
+    },\r\n      {\r\n        \"descripcion\": \"Ganas 30 segundos solo en las exposiciones
+    de conceptos. \",\r\n        \"tipoEvento\": 0,\r\n        \"Atributos_\": {\r\n         
+    \"idImagen\": \"E_TI_F\",\r\n          \"idImagenBack\": \"E_TI_B\",\r\n         
+    \"tipoCarta\": 1\r\n        }\r\n      }\r\n    ],\r\n    \"Trampa\": [\r\n     
+    {\r\n        \"descripcion\": \"El jugador activa el p\xE9ndulo, dependiendo
+    del resultado, el concepto o puente  con mayor puntaje se reduce a la mitad,
+    redondeando hacia abajo.\",\r\n        \"tipoEvento\": 2,\r\n        \"Atributos_\":
+    {\r\n          \"idImagen\": \"E_TA_F\",\r\n          \"idImagenBack\": \"E_TA_B\",\r\n         
+    \"tipoCarta\": 1\r\n        }\r\n      },\r\n      {\r\n        \"descripcion\":
+    \"Expone tus cartas y elige el concepto con mayor puntaje. Reduce el puntaje 
+    de este a la mitad, redondeando hacia abajo.\",\r\n        \"tipoEvento\": 2,\r\n       
+    \"Atributos_\": {\r\n          \"idImagen\": \"E_TA_F\",\r\n          \"idImagenBack\":
+    \"E_TA_B\",\r\n          \"tipoCarta\": 1\r\n        }\r\n      },\r\n      {\r\n       
+    \"descripcion\": \"Expone tus cartas y elige el concepto con mayor puntaje. El
+    resultado obtenido se reduce a 0.\",\r\n        \"tipoEvento\": 2,\r\n       
+    \"Atributos_\": {\r\n          \"idImagen\": \"E_TA_F\",\r\n          \"idImagenBack\":
+    \"E_TA_B\",\r\n          \"tipoCarta\": 1\r\n        }\r\n      },\r\n      {\r\n       
+    \"descripcion\": \"Expone tus cartas y elige el puente con mayor puntaje. Reduce
+    el resultado de este a la mitad, redondeando hacia abajo.\",\r\n        \"tipoEvento\":
+    2,\r\n        \"Atributos_\": {\r\n          \"idImagen\": \"E_TA_F\",\r\n         
+    \"idImagenBack\": \"E_TA_B\",\r\n          \"tipoCarta\": 1\r\n        }\r\n     
+    },\r\n      {\r\n        \"descripcion\": \"Expone tus cartas y elige el puente
+    con mayor puntaje. El resultado obtenido se reduce a 0.\",\r\n        \"tipoEvento\":
+    2,\r\n        \"Atributos_\": {\r\n          \"idImagen\": \"E_TA_F\",\r\n         
+    \"idImagenBack\": \"E_TA_B\",\r\n          \"tipoCarta\": 1\r\n        }\r\n     
+    }\r\n    ],\r\n    \"Bonus\": [\r\n      {\r\n        \"descripcion\": \"El jugador
+    activa el p\xE9ndulo, dependiendo del resultado, elige un concepto o puente,
+    obt\xE9n el puntaje total de este.\",\r\n        \"tipoEvento\": 1,\r\n       
+    \"Atributos_\": {\r\n          \"idImagen\": \"E_B_F\",\r\n          \"idImagenBack\":
+    \"E_B_B\",\r\n          \"tipoCarta\": 1\r\n        }\r\n      },\r\n      {\r\n       
+    \"descripcion\": \"Expone tus cartas y elige uno de tus conceptos, obt\xE9n el
+    doble de puntaje.\",\r\n        \"tipoEvento\": 1,\r\n        \"Atributos_\":
+    {\r\n          \"idImagen\": \"E_B_F\",\r\n          \"idImagenBack\": \"E_B_B\",\r\n         
+    \"tipoCarta\": 1\r\n        }\r\n      },\r\n      {\r\n        \"descripcion\":
+    \"Expone tus cartas y elige un concepto, obt\xE9n el puntaje total de este.\",\r\n       
+    \"tipoEvento\": 1,\r\n        \"Atributos_\": {\r\n          \"idImagen\": \"E_B_F\",\r\n         
+    \"idImagenBack\": \"E_B_B\",\r\n          \"tipoCarta\": 1\r\n        }\r\n     
+    },\r\n      {\r\n        \"descripcion\": \"Expone tus cartas y elige un puente,
+    obt\xE9n el puntaje total de este.\",\r\n        \"tipoEvento\": 1,\r\n       
+    \"Atributos_\": {\r\n          \"idImagen\": \"E_B_F\",\r\n          \"idImagenBack\":
+    \"E_B_B\",\r\n          \"tipoCarta\": 1\r\n        }\r\n      },\r\n      {\r\n       
+    \"descripcion\": \"Expone tus cartas y elige un puente, obt\xE9n el doble del
+    puntaje total de este.\",\r\n        \"tipoEvento\": 1,\r\n        \"Atributos_\":
+    {\r\n          \"idImagen\": \"E_B_F\",\r\n          \"idImagenBack\": \"E_B_B\",\r\n         
+    \"tipoCarta\": 1\r\n        }\r\n      }\r\n    ],\r\n    \"Ayuda\": [\r\n     
+    {\r\n        \"descripcion\": \"El master explica un concepto a elecci\xF3n del
+    jugador.\",\r\n        \"tipoEvento\": 4,\r\n        \"Atributos_\": {\r\n         
+    \"idImagen\": \"E_A_F\",\r\n          \"idImagenBack\": \"E_A_B\",\r\n         
+    \"tipoCarta\": 1\r\n        }\r\n      },\r\n      {\r\n        \"descripcion\":
+    \"El master explica un puente a elecci\xF3n del jugador.\",\r\n        \"tipoEvento\":
+    4,\r\n        \"Atributos_\": {\r\n          \"idImagen\": \"E_A_F\",\r\n         
+    \"idImagenBack\": \"E_A_B\",\r\n          \"tipoCarta\": 1\r\n        }\r\n     
+    },\r\n      {\r\n        \"descripcion\": \"El jugador activa el p\xE9ndulo,
+    dependiendo del resultado, el master explica un concepto o puente alaterio.\",\r\n       
+    \"tipoEvento\": 4,\r\n        \"Atributos_\": {\r\n          \"idImagen\": \"E_A_F\",\r\n         
+    \"idImagenBack\": \"E_A_B\",\r\n          \"tipoCarta\": 1\r\n        }\r\n     
+    },\r\n      {\r\n        \"descripcion\": \"El jugador activa el p\xE9ndulo,
+    dependiendo del resultado, el master explica un concepto aleatoreo o a elecci\xF3n
+    del jugador.\",\r\n        \"tipoEvento\": 4,\r\n        \"Atributos_\": {\r\n         
+    \"idImagen\": \"E_A_F\",\r\n          \"idImagenBack\": \"E_A_B\",\r\n         
+    \"tipoCarta\": 1\r\n        }\r\n      },\r\n      {\r\n        \"descripcion\":
+    \"El jugador activa el p\xE9ndulo, dependiendo del resultado, el master explica
+    un puente aleatoreo o a elecci\xF3n del jugador.\",\r\n        \"tipoEvento\":
+    4,\r\n        \"Atributos_\": {\r\n          \"idImagen\": \"E_A_F\",\r\n         
+    \"idImagenBack\": \"E_A_B\",\r\n          \"tipoCarta\": 1\r\n        }\r\n     
+    }\r\n    ]\r\n  },\r\n  \"Preguntas\": {\r\n    \"Guerra Fria\": [\r\n      {\r\n       
+    \"materia\": \"Guerra Fria\",\r\n        \"descripcion\": \"\xBFCu\xE1les son
+    las causas por las que es derrotada la U.R.S.S durante la Guerra Fr\xEDa?  Expl\xEDquelas\",\r\n       
+    \"tipoEvento\": 3,\r\n        \"Atributos_\": {\r\n          \"idImagen\": \"E_P_F\",\r\n         
+    \"idImagenBack\": \"E_P_B\",\r\n          \"tipoCarta\": 1\r\n        }\r\n     
+    },\r\n      {\r\n        \"materia\": \"Guerra Fria\",\r\n        \"descripcion\":
+    \"\xBFPor qu\xE9 motivos EE.UU fue derrotado en Vietnam? Desarrolle 2 de ellos.\",\r\n       
+    \"tipoEvento\": 3,\r\n        \"Atributos_\": {\r\n          \"idImagen\": \"E_P_F\",\r\n         
+    \"idImagenBack\": \"E_P_B\",\r\n          \"tipoCarta\": 1\r\n        }\r\n     
+    },\r\n      {\r\n        \"materia\": \"Guerra Fria\",\r\n        \"descripcion\":
+    \"\xBFQu\xE9 se entiende por Carrera Espacial durante la Guerra Fr\xEDa? \",\r\n       
+    \"tipoEvento\": 3,\r\n        \"Atributos_\": {\r\n          \"idImagen\": \"E_P_F\",\r\n         
+    \"idImagenBack\": \"E_P_B\",\r\n          \"tipoCarta\": 1\r\n        }\r\n     
+    },\r\n      {\r\n        \"materia\": \"Guerra Fria\",\r\n        \"descripcion\":
+    \"\xBFCu\xE1les son los planes de ayuda de EE.UU y U.R.S.S para reactivar la
+    econom\xEDa en Europa? Exponga 3 de ellos en detalle.\",\r\n        \"tipoEvento\":
+    3,\r\n        \"Atributos_\": {\r\n          \"idImagen\": \"E_P_F\",\r\n         
+    \"idImagenBack\": \"E_P_B\",\r\n          \"tipoCarta\": 1\r\n        }\r\n     
+    },\r\n      {\r\n        \"materia\": \"Guerra Fria\",\r\n        \"descripcion\":
+    \"\xBFQu\xE9 personajes son los m\xE1s destacados por sus aportes pol\xEDticos,
+    sociales o econ\xF3micos durante la Guerra Fr\xEDa? Explique 3 que no hayan aparecido
+    en sus cartas.\",\r\n        \"tipoEvento\": 3,\r\n        \"Atributos_\": {\r\n         
+    \"idImagen\": \"E_P_F\",\r\n          \"idImagenBack\": \"E_P_B\",\r\n         
+    \"tipoCarta\": 1\r\n        }\r\n      },\r\n      {\r\n        \"materia\":
+    \"Guerra Fria\",\r\n        \"descripcion\": \"\xBFCu\xE1les son las caracter\xEDsticas
+    del capitalismo y del comunismo? Expl\xEDque 2 para cada uno.\",\r\n        \"tipoEvento\":
+    3,\r\n        \"Atributos_\": {\r\n          \"idImagen\": \"E_P_F\",\r\n         
+    \"idImagenBack\": \"E_P_B\",\r\n          \"tipoCarta\": 1\r\n        }\r\n     
+    }\r\n    ],\r\n    \"Genetica\": [\r\n      {\r\n        \"materia\": \"Genetica\",\r\n       
+    \"descripcion\": \"\xBFQu\xE9 caracter\xEDsticas estructurales presenta un nucle\xF3tido?
+    \",\r\n        \"tipoEvento\": 3,\r\n        \"Atributos_\": {\r\n          \"idImagen\":
+    \"E_P_F\",\r\n          \"idImagenBack\": \"E_P_B\",\r\n          \"tipoCarta\":
+    1\r\n        }\r\n      },\r\n      {\r\n        \"materia\": \"Genetica\",\r\n       
+    \"descripcion\": \"\xBFC\xF3mo se organiza un cariotipo?\",\r\n        \"tipoEvento\":
+    3,\r\n        \"Atributos_\": {\r\n          \"idImagen\": \"E_P_F\",\r\n         
+    \"idImagenBack\": \"E_P_B\",\r\n          \"tipoCarta\": 1\r\n        }\r\n     
+    },\r\n      {\r\n        \"materia\": \"Genetica\",\r\n        \"descripcion\":
+    \"\xBFQu\xE9 caracter\xEDsticas estructurales presenta el ADN?\",\r\n       
+    \"tipoEvento\": 3,\r\n        \"Atributos_\": {\r\n          \"idImagen\": \"E_P_F\",\r\n         
+    \"idImagenBack\": \"E_P_B\",\r\n          \"tipoCarta\": 1\r\n        }\r\n     
+    },\r\n      {\r\n        \"materia\": \"Genetica\",\r\n        \"descripcion\":
+    \"\xBFCu\xE1l es el n\xFAmero de cromosomas en una c\xE9lula haploides de la
+    especie humana?\",\r\n        \"tipoEvento\": 3,\r\n        \"Atributos_\": {\r\n         
+    \"idImagen\": \"E_P_F\",\r\n          \"idImagenBack\": \"E_P_B\",\r\n         
+    \"tipoCarta\": 1\r\n        }\r\n      },\r\n      {\r\n        \"materia\":
+    \"Genetica\",\r\n        \"descripcion\": \"\xBFQu\xE9 semejanzas y diferencias
+    que se pueden encontrar al comparar un cariotipo femenino con uno masculino,
+    siendo estos normales, sin enfermedades cromos\xF3micas? Exponga dos para cada
+    caso.\",\r\n        \"tipoEvento\": 3,\r\n        \"Atributos_\": {\r\n         
+    \"idImagen\": \"E_P_F\",\r\n          \"idImagenBack\": \"E_P_B\",\r\n         
+    \"tipoCarta\": 1\r\n        }\r\n      },\r\n      {\r\n        \"materia\":
+    \"Genetica\",\r\n        \"descripcion\": \"\xBFQu\xE9 funci\xF3n cumple el grupo
+    fosfato en la mol\xE9cula de ADN?\",\r\n        \"tipoEvento\": 3,\r\n       
+    \"Atributos_\": {\r\n          \"idImagen\": \"E_P_F\",\r\n          \"idImagenBack\":
+    \"E_P_B\",\r\n          \"tipoCarta\": 1\r\n        }\r\n      }\r\n    ],\r\n   
+    \"Pueblos Precolombinos\": [\r\n      {\r\n        \"materia\": \"Pueblos Precolombinos\",\r\n       
+    \"descripcion\": \"\xBFQu\xE9 caracter\xEDsticas poseen los pueblos sedentarios?
+    Menciona y explica dos de ellas.\",\r\n        \"tipoEvento\": 3,\r\n       
+    \"Atributos_\": {\r\n          \"idImagen\": \"E_P_F\",\r\n          \"idImagenBack\":
+    \"E_P_B\",\r\n          \"tipoCarta\": 1\r\n        }\r\n      },\r\n      {\r\n       
+    \"materia\": \"Pueblos Precolombinos\",\r\n        \"descripcion\": \"\xBFQu\xE9
+    caracter\xEDsticas poseen los pueblos n\xF3mades? Menciona y explica dos de ellas.\",\r\n       
+    \"tipoEvento\": 3,\r\n        \"Atributos_\": {\r\n          \"idImagen\": \"E_P_F\",\r\n         
+    \"idImagenBack\": \"E_P_B\",\r\n          \"tipoCarta\": 1\r\n        }\r\n     
+    },\r\n      {\r\n        \"materia\": \"Pueblos Precolombinos\",\r\n        \"descripcion\":
+    \"\xBFQu\xE9 elementos en com\xFAn tiene la cosmovisi\xF3n de los pueblos precolombinos?
+    Desarrolla uno de ellos.\",\r\n        \"tipoEvento\": 3,\r\n        \"Atributos_\":
+    {\r\n          \"idImagen\": \"E_P_F\",\r\n          \"idImagenBack\": \"E_P_B\",\r\n         
+    \"tipoCarta\": 1\r\n        }\r\n      },\r\n      {\r\n        \"materia\":
+    \"Pueblos Precolombinos\",\r\n        \"descripcion\": \"\xBFCu\xE1l de todos
+    los pueblos originarios fue el que m\xE1s te gust\xF3? \xBFPor qu\xE9?\",\r\n       
+    \"tipoEvento\": 3,\r\n        \"Atributos_\": {\r\n          \"idImagen\": \"E_P_F\",\r\n         
+    \"idImagenBack\": \"E_P_B\",\r\n          \"tipoCarta\": 1\r\n        }\r\n     
+    },\r\n      {\r\n        \"materia\": \"Pueblos Precolombinos\",\r\n        \"descripcion\":
+    \"\xBFExisten similitudes entre la vida de los pueblos precolombinos y la qu\xE9
+    tenemos en la actualidad? Explica una de ellas.\",\r\n        \"tipoEvento\":
+    3,\r\n        \"Atributos_\": {\r\n          \"idImagen\": \"E_P_F\",\r\n         
+    \"idImagenBack\": \"E_P_B\",\r\n          \"tipoCarta\": 1\r\n        }\r\n     
+    }\r\n    ]\r\n  }\r\n}"
